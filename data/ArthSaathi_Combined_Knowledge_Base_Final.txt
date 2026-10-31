@@ -1,0 +1,1664 @@
+# ARTHSAATHI KNOWLEDGE BASE (COMBINED EDITION)
+
+# PART 1: INTRODUCTION TO FINANCIAL LITERACY
+
+## 1.1 What Is Financial Literacy?
+Financial literacy is the ability to understand financial concepts and use that knowledge to make
+informed decisions about money.
+
+It includes understanding how to earn, spend, save, borrow, protect and invest money. It also
+includes knowing how to use banking services, make digital payments safely, recognize fraud and obtain help when something goes wrong.
+
+Financial literacy does not mean that a person must be wealthy or understand every financial
+product.
+
+It means that the person can understand the choices available, identify risks, ask appropriate questions and make decisions based on reliable information.
+
+Example
+Suppose Rahul earns ₹15,000 per month. He spends almost all his income without recording
+his expenses.
+
+At the end of the month, he has no money for an unexpected medical bill and considers taking an expensive loan.
+
+Priya also earns ₹15,000 per month. She tracks her expenses, plans for essential payments
+and saves a realistic amount whenever possible.
+
+When an unexpected expense occurs, she has some money available.
+
+The difference is not necessarily their income. It is partly their planning and money-management
+habits.
+
+Why financial literacy matters
+Financial literacy can help people:
+1. Understand where their money goes. 2. Build savings gradually. 3. Avoid unnecessary debt. 4. Compare financial products. 5. Recognize fraudulent offers. 6. Use banking services safely. 7. Understand loan repayment obligations. 8. Prepare for emergencies.
+9. Evaluate financial information critically. 10. Make better-informed decisions about long-term goals.
+What financial literacy cannot guarantee
+Financial literacy cannot guarantee wealth, eliminate every financial risk or prevent every scam.
+Unexpected events, economic conditions, income limitations and other circumstances also affect financial outcomes.
+
+The purpose is to improve understanding and decision-making, not to promise perfect results.
+
+## 1.2 The Difference Between Income, Savings, Wealth and Cash Flow
+
+These terms are related, but they do not mean the same thing.
+Income
+Income is money received during a particular period.
+Examples include salary, business income, pension, rental income and interest received.
+If a person receives ₹25,000 each month from employment, their monthly salary income is
+₹25,000
+
+before considering applicable deductions.
+
+Expenses
+Expenses are payments made to meet needs, obligations or preferences.
+Examples include rent, food, electricity, transport, education, medical bills and loan repayments.
+Savings
+Savings are the portion of available income that a person does not spend and keeps for future
+needs.
+
+A simple monthly calculation is:
+Savings = Income − Expenses
+If monthly take-home income is ₹25,000 and total expenses are ₹22,000, the remaining ₹3,000
+may be available for savings or other financial goals.
+
+This calculation assumes that all relevant expenses have been included. Unexpected or
+irregular expenses can change the result.
+
+Wealth
+Wealth describes a person's financial resources after considering what they owe.
+A simplified calculation is:
+Net worth = Total assets − Total liabilities
+Assets might include savings, investments and property. Liabilities might include loans and
+outstanding debt.
+
+Someone with a high income can still have low net worth if their expenses and liabilities are
+high.
+
+Cash flow
+Cash flow describes money moving into and out of a person’s finances during a period.
+A person may own valuable property but still have difficulty paying a bill if they do not have
+enough accessible money when the bill is due.
+
+Key distinction
+● Income tells us how much money comes in. ● Expenses tell us how much money goes out. ● Savings show how much money is retained. ● Net worth describes assets minus liabilities. ● Cash flow helps explain whether money is available when needed.
+An AI assistant should not treat these concepts as interchangeable.
+
+## 1.3 Needs Versus Wants
+A need is an expense required for basic living, safety or an important obligation. A want is
+something desirable but not essential in the same way.
+
+Examples of potential needs:
+● Basic food ● Essential medicine
+● Necessary housing ● Basic utilities ● Required educational expenses
+Examples of potential wants:
+● Luxury accessories ● Optional entertainment subscriptions ● Expensive upgrades when an existing product works ● Nonessential purchases made for status
+The distinction depends on the person's circumstances. A smartphone might be essential for a
+student attending online classes, while a more expensive model might be an optional upgrade.
+
+Practical method
+Before purchasing something, ask:
+1. Do I need it now? 2. Can I afford it after paying essential expenses? 3. Is there a lower-cost alternative? 4. Will this purchase interfere with an important financial goal? 5. Am I buying it because I need it or because of pressure, advertising or an emotional
+impulse?
+
+The purpose is not to eliminate all enjoyable spending. It is to make spending intentional.
+
+# PART 2: BUDGETING AND PERSONAL MONEY MANAGEMENT
+
+## 2.1 What Is a Budget?
+A budget is a plan for how money will be used during a particular period.
+A monthly budget usually considers:
+● Expected income ● Essential expenses ● Optional expenses ● Debt repayments
+● Savings ● Emergency needs ● Financial goals
+A budget is a planning tool, not a punishment. It should be realistic enough that the person can
+follow and revise it.
+
+Basic formula
+Income − Expenses = Financial surplus or deficit
+A surplus means income is greater than expenses. A deficit means expenses exceed income.
+A surplus does not automatically mean that all the remaining money should be spent. Some of it
+may be needed for savings, future bills or debt repayment.
+
+## 2.2 How to Create a Monthly Budget
+Step 1: Calculate take-home income
+Use the amount actually available after applicable deductions, rather than assuming that gross
+salary is fully spendable.
+
+Include other reasonably predictable income sources, but distinguish reliable income from
+uncertain bonuses or irregular earnings.
+
+Step 2: List fixed expenses
+Fixed expenses are costs that are relatively predictable from month to month.
+Examples:
+● Rent ● Certain loan instalments ● Regular subscriptions ● School or college fees paid monthly
+A fixed expense can still change over time.
+Step 3: List variable expenses
+Variable expenses change according to usage or circumstances.
+Examples:
+● Groceries ● Electricity ● Transport ● Dining out ● Medical expenses
+Review previous spending records to estimate realistic amounts.
+Step 4: Identify irregular expenses
+Some expenses occur only occasionally.
+Examples:
+● Annual insurance premiums ● Examination fees ● Vehicle servicing ● Festival expenses ● Travel ● Repairs
+Ignoring these expenses can make a budget look healthier than it really is.
+Step 5: Set financial priorities
+Common priorities include:
+1. Essential living expenses. 2. Required debt payments. 3. Building emergency savings. 4. Planned future expenses. 5. Other financial goals. 6. Optional spending.
+The correct order can depend on the person's immediate circumstances, urgent obligations and
+financial risks.
+
+Step 6: Monitor actual spending
+Compare the plan with real expenses at regular intervals.
+If transport costs increase, adjust the budget instead of assuming the original estimate remains
+accurate.
+
+Step 7: Review and revise
+A budget should change when income, family responsibilities, living costs or financial goals
+change.
+
+## 2.3 Detailed Budget Example
+Suppose a student receives ₹12,000 each month from family support and part-time work.
+Category Illustrative Monthly Amount
+Food ₹3,000
+Transport ₹1,000
+Mobile and internet ₹500
+Education ₹1,500
+Accommodation contribution ₹2,000
+Personal expenses ₹1,000
+Savings ₹1,500
+Emergency or irregular-expense provision
+₹1,000
+Other planned expenses ₹500
+Total ₹12,000
+This is an example, not a universal budget. A student living at home may have different costs
+from one living in a hostel.
+
+If the student discovers that food expenses are consistently ₹4,000 rather than ₹3,000, the
+budget should be revised using actual spending data.
+
+The student should not simply label necessary expenses as unnecessary because they exceed
+an arbitrary percentage.
+
+## 2.4 Budgeting Methods
+Zero-based budgeting
+In zero-based budgeting, the person assigns a purpose to the full amount of income.
+For example, income might be allocated among rent, food, transport, savings, debt payments
+and discretionary spending.
+
+The goal is not necessarily to spend every rupee. Savings and emergency contributions can
+also be assigned as planned uses.
+
+Envelope budgeting
+The person divides money into categories and sets a spending limit for each.
+For example:
+● Food ● Transport ● Personal expenses ● Entertainment
+This can be implemented with cash, separate accounts or digital tracking. The user should
+consider any fees or risks associated with the chosen method.
+
+Pay-yourself-first budgeting
+The person sets aside a planned savings amount when income arrives, then manages the
+remaining money.
+
+This method can help build a savings habit, but the planned amount must remain realistic.
+Essential expenses and urgent obligations should not be ignored.
+
+Percentage-based budgeting
+A person divides income among broad categories using percentages.
+Any popular percentage rule is only a starting point. It may not fit people with low income, high
+rent, dependants, medical expenses or irregular earnings.
+
+The agent must not insist that every user follow one fixed allocation.
+
+## 2.5 What to Do When Expenses Exceed Income
+If expenses repeatedly exceed income, the person has a budget deficit.
+Possible steps include:
+1. Confirm that income and expenses have been recorded accurately. 2. Separate essential expenses from optional expenses. 3. Identify costs that can realistically be reduced. 4. Review recurring subscriptions and avoidable fees. 5. Contact relevant service providers if a payment arrangement may be available. 6. Avoid taking expensive new debt without understanding the repayment consequences. 7. Look for legitimate ways to increase income if feasible. 8. Seek qualified financial or debt assistance when the situation is serious.
+The AI should not shame the user or assume that the deficit results from irresponsible spending.
+Housing costs, illness, unemployment and family responsibilities can make a budget difficult even when spending is careful.
+
+# PART 3: SAVINGS AND EMERGENCY PLANNING
+
+## 3.1 What Is Saving?
+Saving means keeping part of available money for future use instead of spending it immediately.
+Savings can serve different purposes:
+● Emergency expenses ● Education ● Planned purchases ● Travel ● Family responsibilities ● Short-term financial goals ● Future investments
+A savings plan should reflect the person's income, responsibilities, access to financial services
+and goals.
+
+## 3.2 Emergency Fund
+An emergency fund is money set aside for unexpected but necessary expenses.
+Examples:
+● Medical treatment ● Urgent home repairs ● Temporary loss of income ● Emergency travel ● Essential vehicle repairs
+How to estimate an emergency fund
+First, calculate essential monthly expenses.
+Suppose essential expenses total ₹10,000 each month. A target of three months of essential
+expenses would equal
+
+₹30,000.
+
+This is an illustrative calculation, not a universal requirement. A person with irregular income or
+dependants might prefer a different target, while someone with limited income may need to build the fund gradually.
+
+Where should emergency money be kept?
+The main considerations are:
+● Accessibility ● Safety ● Applicable fees ● Withdrawal restrictions ● Inflation ● Product-specific risks
+Emergency money should not be placed entirely in a volatile investment that might lose value
+when the money is needed.
+
+Users should understand the terms of any deposit or account and should not assume that every
+financial product has the same protection.
+
+Emergency fund versus investment
+An emergency fund is primarily intended to provide access to money during unexpected events.
+An investment is generally intended to meet a financial goal while accepting the risks associated with the chosen asset.
+
+These purposes can overlap, but they are not identical.
+
+## 3.3 Simple Interest
+Simple interest is calculated on the original principal amount.
+Formula:
+Simple Interest = Principal × Annual Rate × Time
+The annual rate must be expressed as a decimal, and the time must be expressed in years
+when using this form of the formula.
+
+Example
+Suppose:
+● Principal = ₹10,000 ● Annual simple interest rate = 5% ● Time = 2 years
+Calculation:
+₹10,000 × 0.05 × 2 = ₹1,000
+The simple interest is ₹1,000. The total before any taxes, fees or other adjustments would be
+₹11,000.
+
+This example demonstrates the mathematics only. It does not describe the current rate of any
+particular bank product.
+
+## 3.4 Compound Interest
+Compound interest is calculated on the principal and accumulated interest under the product's
+compounding rules.
+
+A common mathematical formula is:
+A = P(1 + r/n)^(nt)
+Where:
+● A = final amount ● P = initial principal ● r = annual interest rate expressed as a decimal ● n = number of compounding periods per year ● t = number of years
+Example
+Suppose ₹10,000 earns 5% annually, compounded once per year for two years.
+After year one:
+₹10,000 × 1.05 = ₹10,500
+After year two:
+₹10,500 × 1.05 = ₹11,025
+The total interest is ₹1,025.
+The result differs from simple interest because the first year's interest also earns interest in the
+second year.
+
+Actual financial products may use different compounding methods, payout rules, taxes and fees.
+The
+
+AI should use the product's disclosed terms when calculating a real case.
+
+# PART 4: BANKING FUNDAMENTALS
+
+## 4.1 What Is a Bank?
+A bank is a financial institution that provides services such as deposit accounts, payment
+services and, where offered, lending.
+
+Customers use banking services to:
+● Receive salary or benefits ● Keep money ● Make payments ● Transfer funds ● Pay bills ● Save for future needs
+● Access eligible credit products
+Banking services differ by institution, account type and applicable rules.
+The agent must distinguish general educational information from the specific conditions of a
+user's bank.
+
+## 4.2 Savings Account
+A savings account is commonly used by individuals to hold money and make routine
+transactions.
+
+Depending on the bank and account type, it may provide:
+● Deposits ● Withdrawals ● Electronic transfers ● Debit-card access ● Mobile or internet banking ● Interest on eligible balances
+What should a customer check?
+Before opening or using an account, check:
+● Eligibility requirements ● Minimum balance rules, if any ● Fees and charges ● Withdrawal restrictions ● Digital banking facilities ● Interest calculation and payout terms ● Applicable deposit protection
+Do not assume all savings accounts have identical features.
+
+## 4.3 Fixed Deposits and Recurring Deposits
+Fixed deposit
+A fixed deposit generally involves placing money with a financial institution for a specified period
+under agreed terms.
+
+Before choosing one, examine:
+● Interest rate ● Tenure ● Interest payout frequency ● Premature withdrawal conditions ● Applicable penalties ● Tax treatment ● Protection eligibility and limits
+Recurring deposit
+A recurring deposit generally involves making regular contributions over a specified period.
+It may be useful for someone who wants to save a regular amount, but the exact terms depend
+on the product.
+
+Important distinction
+A fixed deposit and a recurring deposit are different product structures. Neither should be
+described as universally best.
+
+The appropriate choice depends on the customer's goal, available money, withdrawal needs and product terms.
+
+## 4.4 KYC: Know Your Customer
+KYC means Know Your Customer. Financial institutions use customer information and
+verification procedures to meet applicable legal and regulatory requirements.
+
+A genuine financial institution may request identity or other documents through an approved
+process.
+
+However, criminals also use KYC as a pretext for fraud.
+Safe KYC practices
+1. Verify that the request actually comes from the institution. 2. Use the official application, website or branch. 3. Do not click an unexpected KYC link without verification. 4. Never disclose an OTP, PIN or password to a caller. 5. Do not install remote-access software at a stranger's request.
+6. If uncertain, contact the institution through a verified channel.
+A message claiming that an account will be closed immediately unless the recipient clicks a link
+should be treated cautiously.
+
+## 4.5 IFSC, Account Numbers and Beneficiary Verification
+IFSC stands for Indian Financial System Code. It is used to identify a bank branch for supported
+banking transactions.
+
+Account numbers and beneficiary details help route money to the intended destination.
+Before making a transfer:
+1. Obtain beneficiary details through a trusted channel. 2. Check the recipient name and account details shown by the application. 3. Confirm the amount. 4. Be especially careful when paying a new beneficiary. 5. Do not rely on a screenshot alone as proof of payment. 6. Keep the transaction reference for future enquiries.
+A transfer may be difficult to reverse after completion. The agent should never imply that
+entering the wrong details can always be corrected automatically.
+
+# PART 5: DIGITAL PAYMENTS
+
+## 5.1 What Is a Digital Payment?
+A digital payment is a payment made electronically instead of exchanging physical cash directly.
+Examples include:
+● UPI ● Debit and credit cards ● Internet banking ● Mobile banking ● NEFT, RTGS and IMPS ● Eligible prepaid payment instruments
+Each method has its own authorization process, operating rules, fees, limits and dispute
+procedures.
+
+The AI should not treat all digital payment methods as identical.
+
+## 5.2 UPI: Unified Payments Interface
+UPI is an electronic payment system in India that allows users of participating banks and
+applications to make supported payments and transfers.
+
+Depending on the application and transaction type, a user may pay through a supported
+identifier, scan a
+
+QR code or use other available payment options.
+
+How a normal UPI payment works
+A typical payment process may involve:
+1. Opening the official payment application. 2. Selecting a recipient or scanning a QR code. 3. Entering the amount, where required. 4. Reviewing the displayed transaction details. 5. Authorizing the transaction using the required authentication method. 6. Checking the final transaction status.
+Exact screens and steps differ between applications.
+The most important UPI safety rule
+Never disclose your UPI PIN to another person.
+A PIN is a secret used to authorize certain transactions. A legitimate request to receive money
+does not justify telling a stranger your
+
+PIN.
+
+Before authorizing a transaction, check:
+● Recipient ● Amount ● Purpose ● Whether you initiated the transaction ● Whether the application is asking you to approve a payment or another type of request
+If you do not understand the transaction, stop and verify it before proceeding.
+
+## 5.3 Sending Money Versus Receiving Money
+This distinction is essential for fraud prevention.
+Sending money
+When a user sends money, they authorize a transfer to a recipient.
+The user should verify the recipient and amount before confirming the transaction.
+Receiving money
+When someone sends money to the user, the recipient ordinarily should not need to disclose a
+PIN or password to the sender.
+
+A fraudster may claim that the user must:
+● Enter a UPI PIN to receive a refund. ● Scan a QR code to receive a prize. ● Approve a collect request to receive money. ● Share an OTP to confirm a credit.
+These claims should not be accepted without careful verification.
+Practical example
+A seller tells Aman, “I am refunding ₹2,000. Scan this QR code and enter your UPI PIN.”
+Aman should not proceed simply because the seller calls it a refund. He should examine what
+the application is actually asking him to authorize.
+
+If the screen indicates a payment or contains unexpected details, he should cancel and verify the refund through the official payment channel.
+
+The AI should explain the transaction rather than merely saying that every QR code is
+fraudulent.
+
+## 5.4 QR-Code Safety
+A QR code is a machine-readable pattern that can encode information or direct a device to an
+action.
+
+A QR code might open a website, provide a payment destination or initiate a payment workflow.
+Scanning a QR code does not automatically mean the transaction is safe.
+Warning signs
+● A stranger says that scanning is mandatory to receive money. ● The application shows an unexpected recipient. ● The amount is incorrect. ● A payment request appears when the user expected a refund. ● The sender pressures the user to authorize the transaction immediately.
+Safe procedure
+1. Use a trusted payment application. 2. Check the displayed recipient. 3. Review the amount and transaction type. 4. Do not authorize a transaction you do not understand. 5. Verify unexpected requests independently. 6. If money has already been sent to a suspected fraudster, contact the bank or payment
+provider promptly.
+
+## 5.5 NEFT, RTGS and IMPS
+These are electronic transfer systems used in India.
+NEFT
+National Electronic Funds Transfer is a system for transferring funds between participating
+financial institutions under the applicable operating rules.
+
+RTGS
+Real Time Gross Settlement is a system in which eligible transfers are settled individually in real
+time under its operating framework.
+
+IMPS
+Immediate Payment Service supports electronic transfers through participating institutions and
+available channels.
+
+What the user should verify
+The user should check:
+● Whether the selected service supports the intended transfer. ● Applicable limits. ● Charges. ● Beneficiary details. ● Processing or settlement information. ● The provider's dispute process.
+These details can change or vary by provider. The agent should retrieve the current applicable
+rules from official sources instead of hard-coding unverified values.
+
+## 5.6 Failed, Pending or Incorrect Digital Payments
+A failed or pending transaction does not necessarily mean that money has been permanently
+lost.
+
+However, the user should not assume that the money will automatically return within a particular period without checking the relevant rules.
+
+Recommended steps
+1. Open the official payment application. 2. Check the transaction status and history. 3. Save the transaction reference or UTR, if available. 4. Avoid making repeated payments before confirming the first transaction's status. 5. Contact the bank or payment provider through an official channel. 6. Record the complaint reference. 7. Follow the provider's official dispute and escalation procedure.
+If a transaction appears unauthorized, the user should report it promptly rather than waiting for
+an ordinary failed-payment process.
+
+# PART 6: CYBER FRAUD AND SCAM PREVENTION
+
+## 6.1 What Is Cyber Fraud?
+Cyber fraud involves using digital systems, communications or deception to steal money, obtain
+sensitive information or gain unauthorized access.
+
+A scam may involve technology, but it usually also involves social engineering: manipulating a
+person into taking an action that benefits the criminal.
+
+A person may be tricked into transferring money, revealing an OTP, installing remote-access
+software or sharing identity documents.
+
+Victims should not be blamed for being deceived. The appropriate response is to reduce further
+risk, preserve evidence and report the incident.
+
+## 6.2 Phishing
+Phishing is an attempt to trick people into revealing sensitive information or taking an unsafe
+action through fraudulent communications or websites.
+
+Common examples
+● A fake bank email asks the user to confirm account details. ● A message claims that a parcel cannot be delivered without a fee. ● A fraudulent website imitates a genuine financial institution. ● A fake reward message asks the user to log in.
+Warning signs
+● Unexpected links. ● Urgent threats. ● Requests for secret credentials. ● Unusual sender addresses. ● Look-alike website domains. ● Unexpected attachments. ● Offers that appear too good to be true.
+What should the user do?
+Do not click the link or enter information. Verify the claim through the organization's official
+website or application.
+
+If credentials were already entered, the user should contact the relevant institution, secure the
+affected account and review activity.
+
+## 6.3 Vishing and Smishing
+Vishing
+Vishing is voice-based social engineering, commonly involving fraudulent phone calls.
+A caller may impersonate:
+● A bank employee ● A police officer ● A government official ● A delivery agent ● A customer-support representative
+Smishing
+Smishing is phishing conducted through SMS or similar messaging channels.
+Examples include fake KYC notices, fake electricity-disconnection warnings and fraudulent
+payment links.
+
+Common warning signs
+● Pressure to act immediately. ● Threats of arrest or account closure. ● Requests for OTPs or PINs. ● Instructions to move money to a supposed safe account. ● Demands for secrecy. ● Refusal to let the user verify the claim independently.
+Caller ID and logos can be spoofed. A familiar-looking name does not prove that the message is
+genuine.
+
+Safe response
+End suspicious interactions, avoid sharing credentials, and contact the institution through
+independently verified contact details.
+
+## 6.4 Digital-Arrest Scams
+In a digital-arrest scam, criminals impersonate law-enforcement or government officials and use
+intimidation to make a victim believe they are under investigation or must remain on a video call.
+
+They may display fake documents, invent allegations, threaten arrest or demand money for
+supposed verification.
+
+Warning signs
+● A caller claims that the victim is under “digital arrest.” ● The victim is told not to contact family or a lawyer. ● Money must be transferred to avoid arrest. ● The caller demands continuous video-call participation. ● The caller claims that savings must be transferred to a safe or verification account.
+Safe response
+1. Do not transfer money because of threats. 2. End the suspicious interaction when safe to do so. 3. Contact trusted people. 4. Verify any genuine legal matter through independently obtained official channels. 5. Preserve relevant evidence. 6. Report suspected cybercrime through official Indian channels.
+The AI should not try to determine guilt or give definitive legal conclusions based only on a short
+user description.
+
+It should identify warning signs and recommend independent verification.
+
+## 6.5 Investment Scams
+Investment scams attempt to persuade people to transfer money into fraudulent or misleading
+opportunities.
+
+Examples include fake trading platforms, guaranteed-return schemes and impersonation of
+investment professionals.
+
+Warning signs
+● Guaranteed high returns with no risk. ● Pressure to invest immediately. ● Requests to transfer funds to personal accounts. ● Unverifiable registration or identity. ● Fake dashboards showing profits. ● Withdrawal blocked until another fee is paid. ● Promises that losses are impossible.
+Safe practices
+1. Verify the provider and relevant registration through official sources. 2. Read the actual product terms.
+3. Understand the possibility of losing money. 4. Avoid making decisions based solely on social-media messages. 5. Do not pay an unverified agent to release supposed profits. 6. Be cautious of people who promise to recover previous investment losses for an upfront
+fee.
+
+The AI must not promise that an investment will succeed or that a suspicious platform is safe
+without reliable evidence.
+
+## 6.6 What to Do After Suspected Financial Fraud
+When a user reports possible financial fraud, the agent should prioritize urgent protective steps
+over a long general explanation.
+
+Immediate actions
+1. Contact the relevant bank, card issuer or payment provider using a verified channel. 2. Explain that the transaction or credential exposure may involve fraud. 3. Ask about the available procedures for securing the account or payment instrument. 4. Report suspected cyber financial fraud through official Indian reporting channels. 5. Preserve transaction references, messages, phone numbers and screenshots. 6. Change compromised credentials using a trusted device where appropriate. 7. Review recent transactions and account alerts. 8. Keep complaint acknowledgment numbers.
+Indian reporting resources
+The National Cyber Crime Reporting Portal is:
+https://cybercrime.gov.in/
+India's cyber financial fraud reporting helpline is commonly published as 1930 . The agent should
+verify current official information before presenting a contact number or procedure as current.
+
+Important cautions
+● Do not send more money to a supposed recovery agent. ● Do not share OTPs with someone claiming to investigate the fraud. ● Do not assume that reporting guarantees a refund. ● Do not delete relevant evidence before preserving it. ● Do not delay contacting the bank while negotiating with a suspected scammer.
+Evidence checklist
+Preserve:
+● Date and time ● Amount ● Transaction reference ● Payment application or bank involved ● Relevant messages ● Suspected phone numbers and URLs ● Screenshots ● Bank complaint reference ● Cybercrime complaint acknowledgment
+The user should share evidence through appropriate official channels, not publish confidential
+account details publicly.
+
+# PART 7: LOANS, CREDIT AND DEBT
+
+## 7.1 What Is a Loan?
+A loan is money borrowed under an agreement that defines repayment obligations.
+The borrower generally agrees to repay the principal and any applicable interest, fees or other
+charges.
+
+Examples include education loans, home loans, vehicle loans and personal loans.
+Before borrowing, the user should understand the full repayment obligation rather than focusing
+only on the amount received.
+
+## 7.2 Principal, Interest, Tenure and EMI
+Principal
+The principal is the amount borrowed.
+Interest
+Interest is the cost charged for borrowing under the loan agreement.
+Tenure
+Tenure is the scheduled duration of the loan.
+EMI
+EMI means Equated Monthly Instalment. It is a commonly used method of scheduled monthly
+loan repayment.
+
+The EMI structure and total amount paid depend on the principal, interest rate, repayment
+period and applicable terms.
+
+Example
+Suppose a person borrows ₹1,00,000.
+The amount ultimately repaid may exceed ₹1,00,000 because of interest and applicable
+charges.
+
+The exact repayment cannot be calculated accurately without the relevant interest rate, tenure,
+repayment method and fee details.
+
+The AI must not invent these inputs.
+
+## 7.3 Flat Rate Versus Reducing-Balance Interest
+These terms describe different ways of calculating interest in some lending arrangements.
+Under a flat-rate structure, interest may be calculated on the original principal for the agreed
+period.
+
+Under a reducing-balance structure, interest is generally calculated on the outstanding principal
+according to the loan's terms.
+
+Because the outstanding principal decreases as repayments are made, the two methods can
+produce different borrowing costs even when the advertised rates appear similar.
+
+Borrowers should compare the actual repayment schedule and total cost, not just the advertised
+percentage.
+
+The agent should explain the lender's disclosed method rather than assume that every loan
+uses the same calculation.
+
+## 7.4 How to Evaluate a Loan
+Before accepting a loan, check:
+1. The identity of the lender. 2. The financial institution actually providing the loan. 3. The interest rate and calculation method. 4. Whether the rate is fixed or variable. 5. The tenure. 6. The EMI. 7. Processing and other fees. 8. Late-payment penalties. 9. Prepayment or foreclosure conditions. 10. The total amount payable. 11. The consequences of missed payments. 12. The complaint process.
+Where applicable, review the Key Facts Statement and loan agreement carefully.
+Affordability
+A loan should be evaluated against the borrower's income, essential expenses, existing debt
+and ability to manage unexpected costs.
+
+An approved loan is not necessarily an affordable loan.
+The AI should help the user understand the cost and risks rather than simply recommending
+borrowing.
+
+## 7.5 Credit Cards
+A credit card allows the customer to borrow within a specified credit facility, subject to the card
+agreement.
+
+The cardholder receives a statement and must make payments according to the billing terms.
+Important terms
+● Billing cycle ● Statement date ● Payment due date ● Total amount due ● Minimum amount due ● Interest charges ● Fees and penalties
+Minimum amount due
+Paying only the minimum amount due does not generally mean that the entire bill has been
+repaid.
+
+The remaining balance may continue to attract interest under the card's terms. This can make
+debt expensive over time.
+
+Safe credit-card practices
+● Understand the billing cycle. ● Review every statement. ● Pay attention to the total amount due. ● Avoid spending beyond repayment capacity. ● Protect the card PIN, CVV and OTP. ● Report unauthorized transactions promptly. ● Verify the official process for disputes and replacement cards.
+
+# PART 8: INSURANCE LITERACY
+
+## 8.1 What Is Insurance?
+Insurance is a contractual arrangement intended to provide specified financial protection against
+defined risks in exchange for a premium.
+
+The insurer's obligations depend on the policy terms, coverage, exclusions and applicable rules.
+Insurance is not a guarantee that every loss will be covered.
+Common categories
+● Health insurance ● Life insurance
+● Motor insurance ● Property insurance ● Travel insurance
+These products serve different purposes and should not be treated as interchangeable.
+
+## 8.2 Important Insurance Terms
+Premium
+The amount payable to obtain or maintain coverage under the policy.
+Policyholder
+The person or entity that owns the policy.
+Insured
+The person or property covered under the contract.
+Coverage
+The risks, benefits and limits described by the policy.
+Exclusion
+A situation, condition or loss that the policy does not cover under its terms.
+Waiting period
+A period during which specified benefits may not yet be available.
+Claim
+A request for benefits under an insurance policy.
+Deductible or co-payment
+Depending on the policy, the insured may need to pay a specified portion of an eligible expense.
+The exact meaning and application of these terms depend on the policy.
+
+## 8.3 How to Compare Insurance
+Review:
+1. What risks are covered. 2. What is excluded. 3. Premium and renewal terms. 4. Waiting periods. 5. Coverage limits. 6. Deductibles or co-payments. 7. Claim documentation. 8. Insurer identity and relevant regulatory status.
+Do not buy a policy based solely on an agent's verbal promise. Read the actual policy
+documents and ask for clarification about unclear terms.
+
+# PART 9: INVESTMENT LITERACY
+
+## 9.1 Saving Versus Investing
+Saving generally emphasizes accessibility and preservation of money.
+Investing involves placing money into assets with the aim of achieving future financial growth
+while accepting the risks associated with those assets.
+
+The two activities serve different purposes.
+Money required for an immediate essential expense may not be appropriate for an asset whose
+value can fluctuate substantially.
+
+## 9.2 Risk and Return
+Investment risk is the possibility that the actual outcome differs from the expected outcome,
+including the possibility of losing money.
+
+Return is the gain or loss associated with an investment.
+Potential return alone does not determine whether an investment is appropriate. The investor
+must also consider risk, liquidity, time horizon, costs and financial circumstances.
+
+Past performance does not guarantee future results.
+The AI should not present an uncertain outcome as guaranteed.
+
+## 9.3 Diversification
+Diversification means spreading money across different assets or exposures rather than relying
+entirely on one investment.
+
+It may reduce some risks associated with concentration, but it cannot eliminate all investment
+risks.
+
+For example, owning multiple companies in the same industry may provide less diversification
+than the number of investments suggests.
+
+The agent should explain diversification conceptually without promising that it prevents losses.
+
+## 9.4 Mutual Funds and Shares
+Mutual funds
+A mutual fund pools money from investors and invests according to its stated objective and
+strategy.
+
+Funds differ in their assets, risk, costs, liquidity and investment approach.
+Users should read the applicable scheme documents and disclosures.
+Shares
+A share represents an ownership interest in a company.
+Share prices can rise or fall. Investors may lose some or all of the money invested, depending
+on the circumstances.
+
+The agent should not tell a user to buy a particular share solely because of a short description
+or recent price movement.
+
+# PART 10: GOVERNMENT FINANCIAL SERVICES AND COMPLAINTS
+
+## 10.1 Government Schemes
+Government schemes can provide different forms of financial support, insurance, pension
+benefits, banking access or other services.
+
+Eligibility and benefits depend on the particular scheme and applicable rules.
+Correct procedure for answering scheme questions
+1. Identify the exact scheme. 2. Retrieve the latest official information. 3. Check eligibility conditions. 4. Check required documentation. 5. Check deadlines and application methods. 6. Explain the steps in simple language. 7. Identify uncertainties or missing details. 8. Direct the user to the official application channel.
+The agent must not invent eligibility conditions or guarantee approval.
+Official starting points
+● Government of India: https://www.india.gov.in/ ● Ministry of Finance: https://financialservices.gov.in/ ● Reserve Bank of India: https://www.rbi.org.in/
+These are starting points for research. The agent must retrieve the specific official page relevant
+to the question.
+
+## 10.2 Banking Complaints
+A user may need to raise a complaint about:
+● Unauthorized transactions
+● Failed payments ● Incorrect charges ● Disputed transactions ● Banking service problems ● Fraudulent activity
+Complaint procedure
+1. Contact the relevant bank or provider. 2. Describe the issue accurately. 3. Provide the transaction reference where applicable. 4. Preserve supporting evidence. 5. Obtain a complaint reference. 6. Follow the institution's stated process. 7. If unresolved, consult the applicable official escalation mechanism.
+The relevant route depends on the institution, complaint type and applicable rules. The AI
+should retrieve current official instructions before giving specific deadlines or eligibility conditions.
+
+
+# ARTHSAATHI ADDITIONAL KNOWLEDGE BASE
+
+## About this reference
+Prepared: 30 October 2026. This reference gives general educational information about personal finance, digital payments, fraud prevention, loans, savings, insurance, investing and government schemes in India.
+It is not personal financial, tax or legal advice. Rates, limits, fees and rules change. Where a number is given, the official source is named so that it can be checked on the official website or with the bank before any decision is taken.
+Never share your OTP, UPI PIN, ATM PIN, CVV, password or card number with anyone, including anyone who claims to be from a bank, police, government or this assistant.
+
+
+# PART A: DIRECT ANSWERS TO THE MOST COMMON QUESTIONS
+
+## A1. How do I send money via UPI?
+Source: NPCI (https://www.npci.org.in/). Screens differ between apps, but the steps are similar.
+1. Open an official UPI app (a bank app or a well-known payment app downloaded from the official app store) and log in.
+2. Choose how to pay: scan the recipient's QR code, enter their mobile number, or enter their UPI ID (for example name@bank).
+3. Check the recipient name shown by the app. If it does not match the person or shop you intend to pay, stop.
+4. Enter the amount and, if you wish, a short note.
+5. Tap Pay and enter your UPI PIN. The PIN is needed only when you SEND money.
+6. Check the final status (successful, pending or failed) and keep the transaction ID or UTR for any complaint.
+Safety rule: you never enter a UPI PIN to RECEIVE money. If someone says you must enter your PIN, scan a QR or approve a request to receive a refund or prize, it is a scam.
+
+## A2. What is a safe interest rate for a loan?
+There is no single "safe" interest rate for every borrower. The rate depends on the lender, the type of loan, the borrower's credit score, income, loan amount, tenure and whether the loan is secured (for example a home loan) or unsecured (for example a personal loan or credit card).
+How to judge whether a rate is reasonable:
+1. Compare the Annual Percentage Rate (APR) and total cost in the Key Fact Statement (KFS) from at least three regulated lenders, not just the headline rate.
+2. Ask whether the rate is quoted per year on the reducing balance. Rates quoted per month, per day or as a "flat" rate look smaller than they are (see A4).
+3. Check processing fees, late-payment charges and prepayment charges.
+4. Check affordability: a common rule of thumb used by lenders is that total monthly EMIs should not take more than about 40 percent of take-home income. This is a guideline, not a rule, and many households need a lower share.
+5. Secured loans such as home and vehicle loans are usually cheaper than unsecured loans such as personal loans, loan apps and credit-card dues.
+6. Be very careful about lenders who are not a bank or an RBI-regulated NBFC, who do not give a KFS, who ask for an advance fee before giving the loan, or who charge very high rates.
+7. A better credit score usually helps in getting a lower rate (see Part D).
+For floating-rate loans, the RBI policy repo rate influences what banks charge (see A5).
+
+## A3. How is EMI calculated? (formula and example)
+EMI = P x r x (1 + r)^n / ((1 + r)^n - 1)
+P = loan amount (principal). r = monthly interest rate = annual rate / 12 / 100. n = number of monthly instalments.
+Example 1: Loan Rs 1,00,000, 12 percent per year (reducing balance), 12 months.
+r = 0.01. EMI = about Rs 8,885. Total paid = about Rs 1,06,619. Interest = about Rs 6,619.
+Example 2: Loan Rs 5,00,000, 10 percent per year, 5 years (60 months).
+EMI = about Rs 10,624. Total paid = about Rs 6,37,411. Interest = about Rs 1,37,411.
+Example 3: Loan Rs 1,00,000, 18 percent per year, 24 months.
+EMI = about Rs 4,992. Total paid = about Rs 1,19,818. Interest = about Rs 19,818.
+These are illustrations of the mathematics. Real loans may add processing fees, insurance and taxes. Always use the repayment schedule given by the lender. A longer tenure lowers the EMI but increases total interest.
+
+## A4. What is the difference between a flat rate and a reducing-balance rate? (with example)
+Flat rate: interest is calculated on the original loan amount for the whole tenure, even though the outstanding balance falls with every EMI.
+Reducing balance: interest is calculated each month on the balance still owed.
+Example: Rs 1,00,000 borrowed for 2 years at a "10 percent flat" rate.
+Interest = 1,00,000 x 10% x 2 = Rs 20,000. Total = Rs 1,20,000. EMI = Rs 5,000 for 24 months.
+The same EMI on a reducing-balance basis corresponds to roughly 18 percent per year. So a 10 percent flat rate is far more expensive than a 10 percent reducing-balance rate.
+Always ask: "What is the APR and the total amount I will pay?"
+
+## A5. What is the repo rate and how does it affect my loan and deposits?
+Source: Reserve Bank of India (https://www.rbi.org.in/). Verify the latest figure before use.
+The repo rate is the rate at which the RBI lends short-term money to banks. It is the main policy rate used by the RBI's Monetary Policy Committee (MPC).
+As reported after the MPC decision of 7 October 2026, the policy repo rate was raised by 0.25 percentage point from 5.25 percent to 5.50 percent. The next MPC meeting was reported as scheduled for 2 to 4 December 2026. The MPC meets about every two months, so this figure can change.
+Effect on borrowers: loans linked to an external benchmark such as the repo rate can become costlier when the rate rises, which can raise the EMI or lengthen the tenure at the next reset. Fixed-rate loans do not change during the fixed period.
+Effect on savers: banks may change deposit rates over time, but the change is not automatic or equal for every bank. Compare current FD rates directly with banks.
+
+## A6. What is the 50/30/20 budgeting rule?
+It is a popular starting point: about 50 percent of take-home income for needs, 30 percent for wants and 20 percent for savings and debt repayment.
+Example for Rs 30,000 take-home: Rs 15,000 needs, Rs 9,000 wants, Rs 6,000 savings and debt repayment.
+It is only a guide. With low income, high rent, dependants or irregular earnings, needs may take more than 50 percent. Adjust to your actual spending, and first make sure essential bills and emergency savings are covered.
+
+
+# PART B: UPI AND DIGITAL PAYMENTS IN MORE DETAIL
+
+## B1. What is a UPI ID (VPA)?
+A UPI ID, also called a Virtual Payment Address (VPA), looks like name@bankhandle. It lets people pay you without sharing your bank account number or IFSC. Sharing your UPI ID so that people can pay you is safe; sharing your UPI PIN is never safe.
+
+## B2. What are the UPI transaction limits?
+Source: NPCI (https://www.npci.org.in/) and your bank. Limits change, so verify before relying on them.
+- The standard limit for person-to-person (P2P) and most merchant payments is generally Rs 1,00,000 per day across UPI apps, and many banks allow up to about 20 transactions per day.
+- Some categories, such as tax payments, education, hospitals, insurance, capital markets and loan repayments, can have higher per-transaction or per-day limits. Reported figures range from Rs 2 lakh to Rs 10 lakh depending on the category and verified merchant.
+- Banks and apps may apply lower limits, especially for new users or new devices.
+- There is no fixed monthly limit set by NPCI, but a bank may have its own caps.
+If a payment fails near the limit, check your bank's UPI limit in its app or on its website.
+
+## B3. What are UPI Lite and UPI 123PAY?
+UPI Lite is a feature for small-value payments without entering the UPI PIN each time, using a small on-device balance. UPI 123PAY lets people with feature phones (without smartphones) make UPI payments by methods such as IVR calls. The limits for these features have been revised from time to time and sources differ, so check the current limits on the NPCI website or in your app. Keep only a small balance in UPI Lite.
+
+## B4. What are UPI Autopay, mandates and collect requests?
+- UPI Autopay (e-mandate): you give permission once, and the merchant can debit a fixed or maximum amount on a schedule, for example subscriptions or EMIs. Review active mandates regularly in your UPI app and cancel those you do not use.
+- Collect request: a request that asks YOU to pay. Approving it sends money out of your account. Fraudsters send collect requests pretending to be refunds. Never approve a collect request you did not expect.
+
+## B5. I sent money to the wrong account or wrong UPI ID. What should I do?
+No one can promise that the money will come back, but acting quickly helps.
+1. Do not panic and do not pay again to "fix" it.
+2. Note the transaction ID or UTR, date, time, amount, and the recipient name, UPI ID or number. Take screenshots.
+3. Use the "Raise dispute" or "Help" option in your UPI app and describe it as a wrong transfer.
+4. Call or write to your bank's customer care through its official number and ask to lodge a complaint. Banks can contact the receiving bank.
+5. If you know the person, request them politely to return the money. Do not threaten them or share personal data publicly.
+6. Keep the complaint reference number. If the bank does not resolve it, follow the escalation steps in Part C.
+7. If you suspect the recipient is a fraudster, report it at cybercrime.gov.in or call 1930.
+Prevention: always check the recipient name shown by the app before you enter your PIN, and send a small test amount for a new recipient.
+
+## B6. Money was deducted but the UPI payment failed. When do I get it back?
+Under the RBI framework for timelines for failed transactions, if a UPI payment fails after your account is debited, the money is generally expected to be reversed automatically within a short period (commonly one working day after the transaction), and banks may owe compensation for delays. Check the current rules with your bank or on the RBI and NPCI websites. Do not retry repeatedly. Check your passbook or statement first, note the UTR, and if the money is not back within the stated time, complain to the bank, then escalate (Part C).
+
+## B7. What is the difference between NEFT, RTGS and IMPS?
+- NEFT: transfers settled in batches, used for normal transfers.
+- RTGS: real-time settlement for large-value transfers (there is a minimum amount for RTGS).
+- IMPS: instant transfers, available at any time through participating banks.
+- UPI: instant transfers using a UPI ID, mobile number or QR code, normally free for individuals for P2P payments.
+Charges and limits vary by bank and service; check with your bank.
+
+
+# PART C: CUSTOMER PROTECTION, UNAUTHORISED TRANSACTIONS AND COMPLAINTS
+
+## C1. Am I liable if money is stolen through an unauthorised online or card transaction?
+Source: RBI circular "Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions" dated 6 July 2017 (https://www.rbi.org.in/). Check whether RBI has issued updated directions.
+- Zero liability: if the fraud happens because of a bank deficiency, or a third-party breach where the fault lies neither with you nor the bank, and you report it to the bank within 3 working days of receiving the bank's communication, you are not liable.
+- Limited liability: if you report it after 4 to 7 working days (in a third-party breach), your liability is limited to the transaction value or an amount specified by RBI for your type of account, whichever is lower.
+- After 7 working days: liability is decided as per the bank's board-approved policy.
+- If the loss is due to your own negligence (for example you shared your OTP or PIN), you may bear the loss until you report it to the bank.
+- Once you report, the bank is expected to credit the amount back to your account (shadow reversal) within 10 working days, and the burden of proving customer liability lies on the bank.
+- Banks are required to ask customers to register for SMS alerts.
+This is why you must report an unauthorised transaction IMMEDIATELY and keep proof of the date and time you informed the bank. Do not assume a refund is guaranteed in every case.
+
+## C2. How do I complain to my bank, and what if the bank does not solve it?
+Source: RBI Integrated Ombudsman Scheme (https://cms.rbi.org.in/). A new scheme, the Reserve Bank - Integrated Ombudsman Scheme 2026, has been reported as effective from 1 July 2026, replacing the 2021 scheme. Verify details on the RBI complaint portal.
+1. First complain to the bank or regulated entity (bank branch, customer care, email, or the bank's grievance officer). Keep the complaint number and date.
+2. Wait up to 30 days for a reply.
+3. If you get no reply within 30 days, or the complaint is rejected fully or partly, you can approach the RBI Ombudsman.
+4. File the complaint online at https://cms.rbi.org.in, or by email to crpc@rbi.org.in, or by post to the Centralised Receipt and Processing Centre (CRPC), Reserve Bank of India, Chandigarh. The RBI contact number 14448 has been mentioned in the 2026 scheme summary; verify it on the portal.
+5. There is a time limit for approaching the Ombudsman after the bank's reply, so do not delay. Check the current time limit on the RBI portal.
+Typical matters: unauthorised electronic transactions, failed or delayed payments, wrong charges, loan servicing complaints, and digital-lending complaints. Matters already in court and some other categories are not covered.
+
+## C3. Who can I complain to about a loan app or NBFC?
+First the lender's grievance officer (the name must be in the loan documents or Key Fact Statement). If unresolved after 30 days, use the RBI complaint portal (https://cms.rbi.org.in). If you are being harassed or blackmailed, report to the police and at https://cybercrime.gov.in.
+
+
+# PART D: CREDIT SCORE AND CREDIT REPORT
+
+## D1. What is a credit score and why does it matter?
+A credit score is a three-digit number, commonly between 300 and 900, that summarises your repayment history. Lenders use it to decide whether to lend to you and at what interest rate. India has four RBI-licensed credit information companies: TransUnion CIBIL, Experian, Equifax and CRIF High Mark. Scores can differ between companies because each uses its own model.
+Lenders often prefer scores of about 750 and above, but the cut-off differs by lender.
+
+## D2. How do I check my credit report for free?
+Source: RBI directions to credit information companies (https://www.rbi.org.in/). Every credit information company must give you one free full credit report, including the score, once every calendar year (January to December) on request after authentication. Request it from each company's official website, not from random apps or links. Checking your own score does not reduce it.
+
+## D3. How can I improve my credit score?
+1. Pay every EMI and credit-card bill on or before the due date. Payment history is the most important factor.
+2. Pay the full credit-card bill, not only the minimum amount due.
+3. Do not use most of your credit limit; a lower utilisation is better.
+4. Do not apply for many loans or cards in a short time, because each application creates a hard enquiry.
+5. Check your report once a year and ask the lender and credit company to correct errors.
+6. Keep older accounts in good standing; a longer history helps.
+7. Do not trust anyone who promises to "clean" or "repair" your score for a fee.
+
+
+# PART E: LOAN APPS AND DIGITAL LENDING SAFETY
+
+## E1. How can I tell whether a loan app is safe?
+Source: RBI (Digital Lending) Directions, 2025 (https://www.rbi.org.in/).
+- Only banks, RBI-regulated NBFCs and other regulated entities may lend. An app can only act on behalf of a regulated lender. Ask the app: "Which bank or NBFC is giving the loan?"
+- You must receive a Key Fact Statement (KFS) with the APR, all fees and the repayment schedule BEFORE you sign.
+- Loan money should come directly from the lender to your bank account, and repayments should go directly to the lender's account, not to a third party or a personal account.
+- You must get a cooling-off period (at least one day, decided by the lender and stated in the KFS) in which you can exit by repaying the principal and proportionate interest. A one-time processing fee may be retained if it was disclosed.
+- Banks and NBFCs must publish the digital lending apps they use, and RBI keeps a directory of such apps. Check the lender's website and rbi.org.in.
+- A grievance redressal officer must be named. The lender is responsible even if an app partner caused the problem.
+
+## E2. What are the red flags of a fake or predatory loan app?
+- Asks for access to your contacts, photos, gallery or SMS.
+- Asks for an advance "processing" or "insurance" fee before the loan is released.
+- Hides the interest rate, shows no KFS, or shows extremely short repayment periods.
+- Disburses a smaller amount than promised but demands the full amount.
+- Threatens or shames you by contacting your relatives or posting your photos.
+- Not linked to any named bank or NBFC.
+- Offers "instant loans with no documents" through a link on WhatsApp or SMS.
+
+## E3. I am being harassed by a loan app. What should I do?
+1. Do not pay more money under threat, and do not install more apps.
+2. Take screenshots of messages, call logs, app name and payment details.
+3. Report at https://cybercrime.gov.in or call 1930, and inform the police.
+4. Inform your contacts that any message from you about the loan is a fraud.
+5. Complain to the lender's grievance officer and the RBI complaint portal if a regulated lender is involved.
+6. Uninstall the app after taking screenshots, change passwords, and review app permissions.
+Harassment and blackmail are crimes. Victims should not feel ashamed.
+
+
+# PART F: DEPOSIT INSURANCE (HOW SAFE IS MY MONEY IN THE BANK?)
+
+## F1. How much of my bank deposit is insured?
+Source: Deposit Insurance and Credit Guarantee Corporation, DICGC (https://www.dicgc.org.in/), a subsidiary of the RBI.
+Each depositor is insured up to Rs 5,00,000 per bank, covering both principal and interest, if the bank fails. The cover applies to savings, current, fixed and recurring deposits. All your accounts in the same bank in the same capacity are added together. Deposits in different capacities (for example single and joint, or as a partner of a firm) are insured separately. The bank pays the premium, not the depositor.
+Example: Rs 3 lakh in savings and Rs 4 lakh in an FD in the same bank = Rs 7 lakh, but only Rs 5 lakh is insured. If you hold Rs 5 lakh in each of two banks, each is insured separately.
+Deposits in NBFCs, chit funds and informal schemes are not covered by DICGC insurance.
+
+
+# PART G: GOVERNMENT SCHEMES AND SOCIAL SECURITY
+
+Official starting points: https://www.india.gov.in/ , https://financialservices.gov.in/ , https://www.jansuraksha.gov.in/ . Eligibility and benefits can change; confirm with your bank branch before applying. No scheme should ever ask you for an upfront fee or an OTP to "release" a benefit.
+
+## G1. What is PM Jan Dhan Yojana (PMJDY)?
+A national financial inclusion scheme to give every household access to a basic bank account. A basic savings account can usually be opened with minimal documents and without a minimum balance requirement, and typically comes with a RuPay debit card with accident insurance cover and an overdraft facility under conditions. Exact benefits and amounts have changed over time, so confirm at your bank or pmjdy.gov.in.
+
+## G2. What is PMJJBY (Pradhan Mantri Jeevan Jyoti Bima Yojana)?
+A renewable one-year life insurance scheme. Cover: Rs 2 lakh on death due to any cause. Premium: Rs 436 per year, auto-debited from your bank account. Age: 18 to 50 years to enrol, with cover up to age 55. You need a bank or post office account. The premium and cover can be revised, so check with your bank. The nominee gets the money.
+
+## G3. What is PMSBY (Pradhan Mantri Suraksha Bima Yojana)?
+A renewable one-year accident insurance scheme. Cover: Rs 2 lakh for accidental death or total permanent disability, and Rs 1 lakh for partial permanent disability. Premium: Rs 20 per year, auto-debited. Age: 18 to 70 years with a bank or post office account. It covers accidents only, not illness.
+
+## G4. What is Atal Pension Yojana (APY)?
+A pension scheme for workers, especially in the unorganised sector, run by PFRDA. Age 18 to 40 with a bank account, and not open to income tax payers. You choose a guaranteed monthly pension of Rs 1,000, 2,000, 3,000, 4,000 or 5,000 from age 60. The monthly contribution depends on your joining age and the pension chosen; the earlier you join, the lower the contribution. Contributions are normally auto-debited, so keep money in the account.
+
+## G5. What are PPF, Sukanya Samriddhi and NPS?
+- PPF (Public Provident Fund): a government-backed long-term savings scheme with a 15-year lock-in, annual deposit limits and partial withdrawal rules. The interest rate is notified by the government every quarter.
+- Sukanya Samriddhi Yojana: a small-savings scheme for the girl child, opened by a parent or guardian under age rules, with deposit limits and a long lock-in. The rate is notified quarterly.
+- NPS (National Pension System): a market-linked pension scheme regulated by PFRDA. Returns are not guaranteed.
+Check current rates and limits on the India Post, finance ministry or PFRDA websites before investing.
+
+## G6. What is the Kisan Credit Card (KCC) and PM-KISAN?
+KCC gives farmers access to short-term credit for crop and related needs from banks, and interest subvention benefits may apply. PM-KISAN provides income support to eligible farmer families directly into their bank accounts. Apply only through your bank, the official PM-KISAN portal or a Common Service Centre. Never pay an agent to "approve" a benefit.
+
+## G7. How should I check a government scheme before applying?
+1. Find the exact scheme name on india.gov.in or the ministry website.
+2. Read eligibility, documents, deadlines and the application method.
+3. Apply through the official portal, a bank branch or an authorised centre.
+4. Never share your OTP, Aadhaar OTP or UPI PIN with agents.
+5. Keep the acknowledgement number.
+
+
+# PART H: INVESTING BASICS
+
+## H1. What is a SIP (Systematic Investment Plan)?
+A SIP lets you invest a fixed amount in a mutual fund at regular intervals, usually monthly. It builds a habit and spreads purchases over time, but it does not guarantee returns or protect against loss. Mutual fund investments are subject to market risks.
+Illustration (mathematics only, not a forecast): Rs 5,000 a month for 10 years is Rs 6,00,000 invested. If an assumed return of 10 percent per year applied, the value would be roughly Rs 10.3 lakh. Actual returns can be higher, lower or negative.
+
+## H2. What is NAV, expense ratio and exit load?
+- NAV (Net Asset Value): the per-unit value of a mutual fund. A low NAV does not mean a cheap fund.
+- Expense ratio: the yearly fee charged by the fund as a percentage of assets. Lower costs help long-term returns.
+- Exit load: a fee some funds charge if you withdraw within a specified period.
+Read the scheme documents for risk level, costs and objective.
+
+## H3. How do I check whether an investment adviser, broker or fund is genuine?
+Source: SEBI (https://www.sebi.gov.in/).
+1. Check that the broker, investment adviser, research analyst or mutual fund is registered with SEBI on the SEBI website.
+2. Invest only through regulated platforms, and make payments only to the registered entity's official account, not to a personal account.
+3. Be suspicious of guaranteed returns, "sure-shot tips", pressure to invest quickly and fake trading apps or WhatsApp/Telegram groups.
+4. To complain about a regulated market intermediary, use SEBI's SCORES complaint system after first writing to the entity.
+
+## H4. What is a demat account and an IPO?
+A demat account holds shares and other securities in electronic form. An IPO (Initial Public Offering) is when a company sells shares to the public for the first time. IPO shares can fall as well as rise after listing. Read the offer document and do not invest only because of social-media excitement.
+
+## H5. What is inflation and why do savings need to beat it?
+Inflation is the general rise in prices over time. If prices rise 5 percent in a year and your savings earn 4 percent, your purchasing power falls. Real return is approximately the interest rate minus inflation. Example: a 7 percent return with 5 percent inflation gives a real return of roughly 1.9 percent. For this reason long-term goals usually need a mix of products with different risks, while emergency money should stay safe and easy to withdraw.
+
+
+# PART I: TAX BASICS (GENERAL AWARENESS)
+
+Source: Income Tax Department (https://www.incometax.gov.in/). Tax slabs, rebates and deductions change frequently; use the official site or a qualified tax professional for the current year.
+- PAN: a permanent account number used for tax and many financial transactions. Do not share your PAN card photo with unknown people.
+- Income Tax Return (ITR): a yearly filing in which a taxpayer reports income. Whether you must file depends on your income and the rules for the year.
+- TDS (Tax Deducted at Source): tax deducted before you receive some payments, such as salary or bank interest above a threshold. TDS can be claimed or adjusted in the return.
+- Form 16 and Form 26AS/AIS: documents that show income and tax deducted. Compare them with your records.
+- The old and new tax regimes treat deductions differently. Compare both before choosing.
+- Interest on savings, FDs and other deposits can be taxable. Check the rules for the current year.
+- The income tax department never asks for your OTP, UPI PIN or bank password by phone or SMS. Fake refund and "tax notice" messages are common scams.
+
+
+# PART J: CARD, ATM AND MOBILE SAFETY
+
+## J1. How do I use an ATM or debit card safely?
+1. Cover the keypad when entering the PIN and do not accept help from strangers.
+2. Check the card slot and keypad for loose or unusual attachments.
+3. Never write the PIN on the card or share it, even with bank staff.
+4. Switch on transaction alerts by SMS and in the app.
+5. Set transaction limits and enable or disable online, international and contactless use as needed in your bank app.
+6. If the card is lost or stolen, block it at once through the app or the bank's official helpline.
+
+## J2. What is card tokenisation?
+Under RBI rules, a merchant or app can store a token, a substitute code, instead of your actual card number for faster payments. You must give consent, and you can usually delete the saved token from the app or your bank's app. Tokenisation reduces the risk of your real card number being leaked. It does not remove the need to protect your OTP and PIN.
+
+## J3. How do I keep my phone and apps safe?
+1. Install apps only from official app stores and check the publisher.
+2. Do not install an app from an APK file or link sent over WhatsApp, SMS or email.
+3. Never install screen-sharing or remote-access apps for a stranger, even for "KYC" or "refund".
+4. Use a screen lock and keep the phone's software updated.
+5. Do not save PINs or passwords in notes or messages.
+6. Do not use public Wi-Fi for banking.
+7. If you lose your phone, block the SIM, then ask your bank to block UPI and cards.
+
+
+# PART K: MORE SCAMS AND HOW TO RESPOND
+
+## K1. Fake job, "task" and part-time work scams
+Fraudsters offer easy money for liking videos, rating products or completing "tasks", show small initial payouts, then ask for deposits to "unlock" larger earnings. Real employers do not charge you to give you a job. Stop paying, preserve evidence and report.
+
+## K2. Lottery, prize and gift scams
+A message says you have won a prize and must pay a fee, tax or "processing charge". A real prize does not require an advance payment. Do not pay and do not share your documents.
+
+## K3. Fake customer-care numbers and refund scams
+Fraudsters place fake customer-care numbers in search results or social media. After you call, they ask you to install an app or share an OTP. Get customer-care numbers only from the official website, the official app or the back of your card.
+
+## K4. SIM swap and OTP fraud
+In a SIM swap, a criminal gets a duplicate SIM for your number to receive your OTPs. A sudden loss of mobile network without reason can be a warning sign. Contact your mobile operator and your bank immediately.
+
+## K5. Electricity-bill, courier and "your SIM will be blocked" scams
+Calls or messages threaten disconnection, parcel seizure or SIM blocking unless you click a link, call a number or pay. Verify through the official company app, website or a number printed on your bill.
+
+## K6. Digital arrest scams (quick reminder)
+No genuine police, CBI, customs, court or government agency arrests people over a video call or demands money to "verify" or "settle" a case. Hang up and call a trusted person. Report at 1930 or cybercrime.gov.in.
+
+## K7. Where do I report fraud? (1930, cybercrime.gov.in and Chakshu)
+Source: I4C / Ministry of Home Affairs (https://cybercrime.gov.in/) and Department of Telecommunications (https://sancharsaathi.gov.in/).
+- If you have ALREADY lost money or are a cybercrime victim: call the national cyber crime helpline 1930 and file a report at https://cybercrime.gov.in. Act as soon as possible, because quick reporting can help the bank and police act on the money trail. Also inform your bank immediately.
+- If you have received a suspicious call, SMS or WhatsApp message and have NOT lost money: report it using Chakshu on the Sanchar Saathi portal (https://sancharsaathi.gov.in). Chakshu is not for frauds that have already caused a loss.
+- A simple memory aid used by banks: Law enforcement (1930 / cybercrime.gov.in), Bank (inform immediately), Wipe (secure your device and change passwords).
+Reporting does not guarantee recovery, but it improves the chance of action. Never pay a "recovery agent" who contacts you.
+
+
+# PART L: GUIDANCE FOR DIFFERENT USERS
+
+## L1. For students
+Track pocket money and allowances in a simple monthly budget. Keep a small emergency amount. Do not lend your UPI app, SIM or bank account to others (this can be misused and may create legal trouble). Avoid "buy now pay later" and instant loan apps. Beware of fake scholarship, internship and part-time job offers that ask for a fee.
+
+## L2. For farmers
+Use official channels for crop loans, KCC, insurance and government payments. Check that benefit payments arrive in your own linked account. Do not give your Aadhaar OTP or UPI PIN to anyone claiming to help release a subsidy. Keep records of loan repayments and insurance receipts. Compare rates from banks and cooperative banks and avoid informal lenders with very high rates.
+
+## L3. For small shopkeepers and gig workers
+Display the UPI QR code from your own bank or payment app and check the credited message in your app (not just a screenshot) before handing over goods. Fake payment screenshots and fake "payment received" SMS messages are common. Keep personal and business money separate. Keep income records because they help in loans and tax filing.
+
+## L4. For senior citizens
+Never share an OTP or PIN even with someone who sounds like a bank or police officer. Call back on the bank's official number. Ask a trusted family member before approving a large payment. Set transaction limits and alerts. Keep nominee details updated on all accounts. Be careful of "digital arrest", KYC and pension-related calls.
+
+## L5. For homemakers
+Keep a household budget that includes irregular costs such as school fees, festivals and medical needs. Build a personal emergency fund. Know your joint and nominee details on bank accounts and insurance policies. Learn to check UPI recipients before paying.
+
+## L6. For first-time salaried employees
+Check your salary slip for gross pay, deductions and take-home pay. Build an emergency fund, then start a monthly saving or SIP. Take health insurance and term life insurance if you have dependants. Pay credit-card bills in full. Use the tax comparison on the income tax portal to choose a regime.
+
+
+# PART M: GLOSSARY
+
+## Finance terms in simple words
+- APR: Annual Percentage Rate, the yearly cost of a loan including interest and certain fees.
+- KFS: Key Fact Statement, a one-page summary of a loan's rate, fees, total cost and repayment schedule.
+- EMI: Equated Monthly Instalment, the fixed monthly loan repayment.
+- Principal: the original loan amount or deposit amount.
+- UTR: Unique Transaction Reference, the reference number used to track a bank transfer or UPI payment.
+- VPA: Virtual Payment Address, another name for a UPI ID.
+- KYC: Know Your Customer, identity verification done by banks and financial institutions.
+- Nominee: the person you name to receive an account balance or insurance benefit after your death.
+- Credit utilisation: the share of your available credit limit that you are using.
+- NAV: Net Asset Value, the per-unit value of a mutual fund.
+- SIP: Systematic Investment Plan, regular fixed-amount investing in a mutual fund.
+- Demat: electronic holding of shares and securities.
+- DICGC: the RBI subsidiary that provides deposit insurance up to Rs 5 lakh per depositor per bank.
+- Ombudsman: an independent authority that handles unresolved customer complaints.
+- CIC: Credit Information Company or credit bureau, such as CIBIL.
+
+
+# PART N: DIRECTORY OF OFFICIAL SOURCES
+
+## Where to verify information and report problems
+- Reserve Bank of India (banking rules, repo rate, customer protection): https://www.rbi.org.in/
+- RBI complaint management system (RBI Ombudsman): https://cms.rbi.org.in/
+- RBI financial education: https://rbikehtahai.rbi.org.in/
+- RBI Sachet (report illegal deposit schemes): https://sachet.rbi.org.in/
+- NPCI (UPI and payment systems): https://www.npci.org.in/
+- National Cyber Crime Reporting Portal and helpline 1930: https://cybercrime.gov.in/
+- Sanchar Saathi / Chakshu (report suspicious calls, SMS, WhatsApp): https://sancharsaathi.gov.in/
+- DICGC (deposit insurance): https://www.dicgc.org.in/
+- SEBI (securities market, investor protection): https://www.sebi.gov.in/
+- IRDAI (insurance): https://irdai.gov.in/
+- PFRDA (NPS and APY): https://www.pfrda.org.in/
+- Jan Suraksha schemes: https://www.jansuraksha.gov.in/
+- Income Tax Department: https://www.incometax.gov.in/
+- Government of India services and schemes: https://www.india.gov.in/
+- Department of Financial Services: https://financialservices.gov.in/
+
+
+# PART O: HINDI AND HINGLISH QUESTIONS AND ANSWERS
+
+## UPI se paise kaise bhejte hain?
+Apne bank ya official UPI app mein login karein. QR scan karein ya mobile number / UPI ID daalein. Recipient ka naam check karein, amount daalein, aur UPI PIN daal kar payment confirm karein. PIN sirf paise BHEJNE ke liye lagta hai. Paise RECEIVE karne ke liye kabhi PIN ya OTP nahi dena padta.
+
+## UPI PIN kya hota hai aur kya ise share karna chahiye?
+UPI PIN ek secret code hai jisse aap payment authorize karte hain. Ise kisi ke saath, bank ya police wale ke naam par bhi, share nahi karna chahiye. Jo bhi PIN maange, wo fraud hai.
+
+## ब्याज की दर कितनी सही है? (Loan ka safe interest rate kya hai?)
+Sabke liye ek "safe" rate nahi hota. Rate lender, loan type, credit score aur tenure par depend karta hai. Kam se kam 3 regulated lenders ka APR aur total cost compare karein, flat aur reducing rate ka fark samjhein, aur dekhein ki sabhi EMI milakar aapki take-home income ka lagbhag 40 percent se zyada na ho.
+
+## Flat rate aur reducing rate mein kya fark hai?
+Flat rate mein interest hamesha original amount par lagta hai. Reducing rate mein interest bachi hui balance par lagta hai. Isliye 10 percent flat rate lagbhag 18 percent reducing rate ke barabar ho sakta hai.
+
+## EMI kaise calculate hota hai?
+EMI = P x r x (1+r)^n / ((1+r)^n - 1). P loan amount hai, r monthly rate (saalana rate / 12 / 100), n mahine. Example: Rs 1,00,000, 12 percent, 12 mahine ka EMI lagbhag Rs 8,885 hota hai.
+
+## Compound interest kya hota hai?
+Compound interest mein aapko original amount par interest milta hai, aur pehle se jama hua interest bhi aage interest earn karta hai. Isliye amount time ke saath tezi se badhta hai. Actual result rate, compounding method aur time par depend karta hai.
+
+## Galat UPI ID par paise chale gaye, kya karein?
+Turant transaction ID ya UTR aur screenshot rakhein. UPI app mein "Raise dispute" karein aur bank ke official customer care par complaint darj karein. Complaint number sambhal kar rakhein. Wapas milne ki guarantee nahi hoti, par jaldi complaint karne se madad milti hai. Agar bank 30 din mein hal na kare to RBI ombudsman (cms.rbi.org.in) par jaa sakte hain.
+
+## Mere account se bina permission paise kat gaye, kya karein?
+Turant bank ko batayein aur cybercrime helpline 1930 par call karein ya cybercrime.gov.in par report karein. RBI ke niyam ke anusaar, agar fraud bank ke notice ke 3 working days ke andar report kiya jaye aur galti aapki na ho, to aapki liability zero ho sakti hai. Isliye der na karein aur report ka proof rakhein.
+
+## मुझे फ्रॉड कॉल आया है, क्या करूँ?
+कॉल काट दें। OTP, PIN, पासवर्ड या कार्ड की जानकारी किसी को न बताएँ। कोई ऐप इंस्टॉल न करें। अगर पैसे नहीं गए हैं तो Sanchar Saathi पोर्टल (sancharsaathi.gov.in) पर Chakshu से कॉल की रिपोर्ट करें। अगर पैसे चले गए हैं तो तुरंत अपने बैंक को बताएँ, 1930 पर कॉल करें और cybercrime.gov.in पर शिकायत दर्ज करें।
+
+## Digital arrest kya hai?
+Isme fraudster khud ko police ya CBI ka officer batakar video call par aapko "arrest" ka darr dikhata hai aur paise transfer karwata hai. Asli agencies video call par arrest nahi karti aur paise nahi maangti. Call kaat dein, kisi bharosemand vyakti ko batayein aur 1930 par report karein.
+
+## Credit score kya hota hai aur free report kaise milegi?
+Credit score 300 se 900 ke beech ka number hai jo aapki repayment history dikhata hai. RBI ke niyam se har credit bureau (CIBIL, Experian, Equifax, CRIF High Mark) saal mein ek baar free full credit report deta hai. Ise bureau ki official website se maangein.
+
+## Bank mein jama paise kitne surakshit hain?
+DICGC ke tahat har depositor ke liye har bank mein Rs 5 lakh tak ka insurance hota hai (principal aur interest dono milakar), agar bank fail ho jaye. Ek hi bank ke saare accounts jod kar ginte jaate hain.
+
+## Jan Suraksha schemes kaun si hain?
+PMJJBY: Rs 2 lakh ka life cover, premium Rs 436 saalana. PMSBY: accident cover Rs 2 lakh tak, premium Rs 20 saalana. Atal Pension Yojana: 60 saal ke baad Rs 1,000 se 5,000 monthly pension, age 18 se 40. Apply bank branch se karein aur jaankari jansuraksha.gov.in par verify karein.
+
+## SIP kya hai? Kya isme paise doob sakte hain?
+SIP mein har mahine ek fixed amount mutual fund mein invest hota hai. Mutual fund market risk ke adheen hote hain, isliye returns guaranteed nahi hote aur nuksaan bhi ho sakta hai. Invest karne se pehle scheme ke documents padhein aur SEBI-registered platform se hi invest karein.
+
+## Loan app wale dhamki de rahe hain, kya karein?
+Dhamki ke darr se paise na dein. Screenshots rakhein, 1930 ya cybercrime.gov.in par report karein aur police ko batayein. Dekhein ki loan kisi registered bank ya NBFC ka hai ya nahi. Harassment aur blackmail crime hai.
+
+## Budget kaise banayein?
+Pehle take-home income likhein. Phir fixed kharche (kiraya, EMI), variable kharche (khana, transport) aur kabhi-kabhi aane wale kharche likhein. Saving ko pehle alag rakhein, phir bacha hua paisa kharch karein. 50/30/20 ek shuruaati guide hai, par apne asli kharche ke hisaab se badlein.
+
+# PART P: INSURANCE IN PRACTICE
+
+## P1. How does health insurance work (cashless, reimbursement, sum insured)?
+Source: IRDAI (https://irdai.gov.in/). Terms differ by policy, so read the policy wording.
+- Sum insured: the maximum amount the insurer will pay in a policy year.
+- Cashless claim: you get treatment at a network hospital, and the hospital and insurer settle the bill directly, apart from items you must pay yourself. Planned treatment usually needs pre-authorisation.
+- Reimbursement claim: you pay the hospital first, then submit bills and documents to the insurer to get the eligible amount back.
+- Waiting period: a time after buying the policy during which certain illnesses or pre-existing conditions are not covered.
+- Pre-existing disease: a condition you already had when you bought the policy. Always disclose it honestly; hiding it can lead to claim rejection.
+- Co-payment, deductible and room-rent limits: you pay part of the bill, or the insurer limits payment according to the room category you choose.
+- Exclusions: things the policy never covers, such as cosmetic treatment or some waiting-period conditions.
+Before buying, compare network hospitals near you, waiting periods, sub-limits, renewal terms and the insurer's claim record.
+
+## P2. How do I make a health or life insurance claim?
+1. Inform the insurer or the hospital insurance desk as soon as possible (many policies require intimation within a set time).
+2. For cashless treatment, ask the network hospital to send the pre-authorisation request.
+3. Keep original bills, discharge summary, doctor's notes, test reports and ID proof.
+4. Submit the claim form with documents within the time limit in your policy.
+5. Keep the claim number and note every call or email.
+6. Under IRDAI rules, insurers are expected to settle or reject claims within a defined time after receiving the last required document (reported as about 30 days, or 45 days if an investigation is needed). Verify the current rule on irdai.gov.in.
+Common reasons for rejection: non-disclosure of a pre-existing condition, claim made during a waiting period, treatment not covered, missing documents, or a policy that lapsed because the premium was not paid.
+
+## P3. What is the free-look period and how do I use it?
+After you receive a new life or health policy you can review it and return it for a refund if you do not agree with the terms. Under IRDAI's recent policyholder-protection rules, the free-look period for such policies has been extended to 30 days (it used to be 15 days in many cases; check your policy document). A refund is generally the premium minus a proportionate risk charge and certain expenses. Send a written request to the insurer by email and by post, and keep proof of sending.
+
+## P4. Where do I complain if my insurer rejects a claim or mis-sold a policy?
+Source: IRDAI Bima Bharosa (https://bimabharosa.irdai.gov.in/) and the Insurance Ombudsman offices listed on irdai.gov.in.
+1. Write to the insurer's Grievance Redressal Officer (GRO) and keep the reference number. The insurer is expected to reply within about 15 days.
+2. If there is no satisfactory reply, escalate to IRDAI through the Bima Bharosa portal.
+3. Next you can approach the Insurance Ombudsman, a free service for individual policyholders, within the time limit set by the rules (check the current limit).
+Keep all emails, policy documents, advertisements and call details as proof.
+
+## P5. What is the difference between term insurance, endowment and ULIP?
+- Term insurance: pure life cover for a fixed period. It pays the nominee if you die during the term and pays nothing if you survive. It usually has the lowest premium for a given cover.
+- Endowment and traditional savings plans: combine life cover with a savings component and pay a maturity benefit. Compare the total premium with the cover and the return you actually get.
+- ULIP (unit-linked insurance plan): combines insurance with market-linked investment. Returns are not guaranteed, charges apply and there is a minimum lock-in period.
+Be careful if an agent calls a ULIP or savings plan a "fixed deposit" or "guaranteed scheme". Ask for the written benefit illustration, charges, lock-in and surrender value.
+
+## P6. Is motor insurance compulsory?
+In India a valid third-party liability insurance policy is legally required for running a motor vehicle on public roads. Third-party cover pays for harm to other people or their property, not for damage to your own vehicle. Own-damage cover is separate and optional. Driving without valid insurance can lead to penalties.
+
+
+# PART Q: LIVELIHOOD AND SMALL-BUSINESS SCHEMES
+
+Always apply through a bank, NBFC, official portal or authorised centre. No genuine scheme asks for an advance fee, OTP or UPI PIN.
+
+## Q1. What is PM Mudra Yojana (PMMY)?
+Source: Ministry of Finance / MUDRA (https://www.mudra.org.in/ and https://financialservices.gov.in/).
+Collateral-free loans for non-farm micro and small businesses, such as shops, small manufacturing and services, from banks, NBFCs and microfinance institutions. The loan categories are:
+- Shishu: up to Rs 50,000.
+- Kishore: above Rs 50,000 and up to Rs 5 lakh.
+- Tarun: above Rs 5 lakh and up to Rs 10 lakh.
+- Tarun Plus: above Rs 10 lakh and up to Rs 20 lakh, only for borrowers who have successfully repaid an earlier Tarun loan.
+The interest rate is set by the lending institution, so compare offers. Larger categories may need more documents such as a business plan, bank statements and tax returns. Mudra loans must still be repaid with interest, and they are not grants.
+
+## Q2. What is PM SVANidhi for street vendors?
+Source: Ministry of Housing and Urban Affairs (https://pmsvanidhi.mohua.gov.in/). The scheme was restructured and extended up to March 2030.
+- Collateral-free working-capital loans in three steps: up to Rs 15,000, then up to Rs 25,000 after timely repayment of the first, then up to Rs 50,000.
+- An interest subsidy on timely or early repayment.
+- A cashback incentive for digital transactions (reported up to Rs 1,600 a year).
+- Vendors who repay the second loan become eligible for a UPI-linked RuPay credit card (initial limit reported as Rs 10,000, extendable to Rs 30,000).
+Vendors normally need a Letter of Recommendation from the local urban body or vending committee. Apply only through the official portal, a bank or an authorised centre.
+
+## Q3. What is a good way to run a small shop's money safely?
+1. Keep personal and shop money in separate accounts.
+2. Accept UPI through your own QR code and verify the credit in your app or the soundbox, not a customer's screenshot.
+3. Record daily sales and expenses.
+4. Keep a small cash reserve for slow days and festival stock.
+5. Borrow only against clear cash flow, and compare rates and fees.
+6. Avoid informal lenders who charge daily or weekly interest without paperwork.
+
+
+# PART R: DORMANT ACCOUNTS, UNCLAIMED DEPOSITS AND ACCOUNT HYGIENE
+
+## R1. What is an inoperative (dormant) account and an unclaimed deposit?
+Source: RBI (https://www.rbi.org.in/). A savings or current account with no customer-initiated transaction for a long period (commonly two years) is classified as inoperative. Deposits that remain unclaimed for 10 years, such as an inoperative account or a matured fixed deposit that was never collected, are transferred by the bank to the RBI's Depositor Education and Awareness (DEA) Fund. The depositor or the legal heirs can still claim the money from the bank.
+
+## R2. How do I find old or forgotten bank deposits?
+RBI's UDGAM (Unclaimed Deposits - Gateway to Access inforMation) portal at https://udgam.rbi.org.in lets you search for unclaimed deposits across participating banks using one search. It is only a search tool; to actually claim the money you must apply to the concerned bank with KYC and the claim documents. Check that the bank you used is covered by the portal.
+
+## R3. How do I reactivate a dormant account?
+Visit the branch or use the bank's official process. Complete KYC again if asked, make a small transaction as advised and update your mobile number, address and nominee. Do not give documents to agents who offer to "recover" old accounts for a fee.
+
+## R4. Why is a nominee important, and how do heirs claim a deceased person's account?
+A nominee named in the account, policy, FD, mutual fund or demat account makes the claim process simpler. Add or confirm nominees now and keep the details updated. If there is no nominee, legal heirs may need documents such as a death certificate, proof of relationship and a legal heir certificate or succession documents, depending on the bank and the amount. Contact the bank's branch, and use the UDGAM search if you suspect forgotten accounts.
+
+## R5. Why does my bank ask me to update KYC again?
+Banks must periodically refresh customer details under regulatory rules, and the schedule depends on the risk category of the account. Update only through the official branch, app, website or a verified link. A message that threatens immediate account closure and asks for a link click or OTP is a scam.
+
+
+# PART S: DEBT MANAGEMENT
+
+## S1. What should I do if I cannot pay my EMI?
+1. Do not ignore the lender. Contact the bank or NBFC early, through official channels, and explain the problem.
+2. Ask what options exist, such as a revised repayment schedule or a temporary arrangement, and ask for the terms in writing, including the effect on interest and your credit report.
+3. Do not take a new high-cost loan only to pay an old one without comparing the full cost.
+4. Pay essential expenses first, then the debt with the highest interest rate.
+5. If you feel harassed, keep records and complain to the lender's grievance officer and then to the RBI complaint portal (https://cms.rbi.org.in). Threats, abuse, calls at odd hours and public shaming are not acceptable recovery methods.
+6. If you are struggling, consider asking a trusted advisor or a debt-counselling service. Do not pay upfront fees to anyone promising to "wipe out" your debt.
+
+## S2. What is the debt avalanche and debt snowball method?
+- Avalanche: pay the minimum on all debts and put any extra money on the debt with the highest interest rate first. This usually saves the most interest.
+- Snowball: put extra money on the smallest balance first. It can feel motivating because debts close quickly.
+Choose the method you can stick with, and never miss minimum payments.
+
+## S3. Why is paying only the minimum due on a credit card costly?
+Interest is charged on the unpaid balance. Hypothetical example: if Rs 50,000 remains unpaid and the card charges 3 percent per month, the interest for one month alone is about Rs 1,500. If you keep paying only the minimum, the balance falls slowly and the interest keeps accruing. Pay the total amount due in full whenever possible. Check the actual rate, late fee and statement date in your card agreement.
+
+## S4. What are balance transfer, cash advance and "buy now pay later"?
+- Balance transfer: moving a card or loan balance to another lender. Check the transfer fee, the rate after any offer period and the total cost.
+- Cash advance on a credit card: withdrawing cash using the card. It often has a fee and interest from the day of withdrawal.
+- Buy now pay later (BNPL) and no-cost EMI: they make a purchase easier but are still debt. Read the processing fee, the interest hidden in the price and the late charges.
+
+## S5. How do I avoid falling into a debt trap?
+1. Do not borrow for routine expenses.
+2. Keep total EMIs within a level you can afford even if income drops.
+3. Build an emergency fund before taking new discretionary loans.
+4. Read the Key Fact Statement and the total cost before signing.
+5. Do not sign blank forms or share OTPs for a loan.
+6. Check your credit report once a year.
+
+
+# PART T: ONLINE SHOPPING, CLASSIFIEDS AND RENTAL SCAMS
+
+## T1. How do I shop online safely?
+1. Use well-known apps and sites, and type the web address yourself instead of clicking an advertisement link.
+2. Check the site address carefully for look-alike spellings.
+3. Be suspicious of prices far below the market.
+4. Prefer payment methods with dispute rights and keep order confirmations and screenshots.
+5. Never share OTP or UPI PIN with a seller or delivery agent.
+6. Refunds should come to your original payment source. A "refund agent" who asks you to scan a QR code or approve a request is a scammer.
+
+## T2. What is the classified-ad (second-hand sale) scam?
+A "buyer" says they will pay in advance and sends a QR code or a collect request, asking you to enter your PIN to "receive" money. Another version is a fake "army officer" or "relocating officer" selling a cheap product and asking you to pay a "token" or "delivery" fee. Remember: receiving money never needs a PIN. Meet in public and verify payments in your own banking app.
+
+## T3. What are rental and deposit scams?
+Fraudsters list a flat that does not exist or is not theirs, ask for a booking amount before you see it, and disappear. See the property in person, verify the owner's identity and agreement, and avoid paying a large advance to an unknown person online.
+
+## T4. What is a fake QR code or sticker scam?
+Criminals paste a fake QR code over a genuine one at shops, parking areas or fuel pumps, or send a QR code on social media. Check the merchant name shown in your app before paying.
+
+
+# PART U: IDENTITY AND DOCUMENT SAFETY
+
+## U1. How do I protect my Aadhaar, PAN and other documents?
+Source: UIDAI (https://uidai.gov.in/) and the relevant official websites. Confirm current features there.
+- Share a photocopy of your Aadhaar only where needed, and write the purpose and date on it. Prefer a masked Aadhaar where accepted.
+- Use the official UIDAI website or app for services, and be careful of unofficial centres that charge extra.
+- You can lock your Aadhaar biometrics through UIDAI's official services to reduce the risk of misuse in biometric payment fraud.
+- Never share an Aadhaar OTP, a PAN card photo or bank details with unknown callers or on social media.
+- Check your bank accounts, credit report and SIM connections linked to your ID from time to time. Unknown loans or SIMs in your name should be reported.
+- DigiLocker (https://www.digilocker.gov.in/) lets you keep and share government-issued documents digitally.
+
+## U2. What is an AePS fraud and how do I prevent it?
+AePS means Aadhaar Enabled Payment System, which allows some banking services using Aadhaar and fingerprint. Fraudsters misuse stolen fingerprint data to withdraw money. Lock your biometrics if you do not use the service, and report unauthorised withdrawals to your bank immediately and at https://cybercrime.gov.in or 1930.
+
+
+# PART V: CRYPTO, FINFLUENCERS AND THE DIGITAL RUPEE
+
+## V1. Is cryptocurrency safe?
+Cryptocurrency is not legal tender in India and its value can swing sharply. It does not carry guaranteed returns, and many fake crypto platforms and "double your coins" schemes are scams. Tax rules apply to profits, so check the current rules on the income tax website. Do not invest money you cannot afford to lose, and do not trust anyone who promises assured profits.
+
+## V2. Can I trust financial influencers ("finfluencers") and tips on social media?
+Not automatically. Giving investment advice or running a research service requires registration with SEBI. Check the person's or firm's registration on the SEBI website before acting, never pay for "sure-shot" tips, and be careful with Telegram or WhatsApp groups that promise high returns or ask you to move to a particular trading app.
+
+## V3. What is the digital rupee (e-rupee)?
+The e-rupee is a digital form of the Indian rupee issued by the RBI. It is different from cryptocurrency and from your normal bank balance. It has been rolled out in pilot form, so availability and features may change. Check https://www.rbi.org.in/ for the current status.
+
+
+# PART W: FINANCIAL PLANNING AND LIFE EVENTS
+
+## W1. How do I start financial planning?
+1. Write down your income, expenses and debts.
+2. Build a small emergency fund first, then grow it gradually (see Part 3 in the main knowledge base).
+3. Pay off high-interest debt such as credit-card dues before taking risk with investments.
+4. Take basic health and life cover if others depend on you.
+5. Set goals with dates: short term (under 1 year), medium term (1 to 5 years) and long term (over 5 years). Money needed soon should be kept safe and accessible; money for long-term goals can take more risk.
+6. Review your plan once a year and after major life changes.
+
+## W2. What financial steps should I take at different life stages?
+- First job: open a salary account, track expenses, start an emergency fund, enrol in health insurance, understand deductions on the salary slip.
+- Marriage or a new family: combine budgets, update nominees, review life and health cover.
+- Child's education: plan early, compare education loan terms, avoid borrowing beyond repayment capacity.
+- Home purchase: compare loan offers, check total cost including registration and maintenance, and make sure the EMI is comfortable.
+- Retirement: estimate yearly expenses including medical costs, understand EPF, NPS, deposit options and pension schemes, and beware of investment frauds aimed at retirees.
+
+## W3. How much should I save for retirement?
+There is no single correct amount. It depends on your expenses, age, health, other income, inflation and goals. Start early because time helps compounding. Estimate how much you will need each year after retirement, check your EPF and NPS statements, and use official calculators. Do not put all retirement money into a single risky scheme.
+
+
+# PART X: INFORMAL FINANCE: CHIT FUNDS, MONEYLENDERS, GOLD AND CASH
+
+## X1. Are chit funds and committees safe?
+A registered chit fund operates under the Chit Funds Act and is supervised by the State Government's registrar. Before joining, check that the chit is registered, read the agreement, know the foreman, auction rules, commission and what happens on default. Informal committees without registration or records are risky because you may lose money if the organiser disappears. Schemes that promise to double money are illegal. Illegal deposit schemes can be reported to the RBI Sachet portal (https://sachet.rbi.org.in/).
+
+## X2. How do I deal with moneylenders safely?
+Only registered lenders may lend in many states, and the rules differ by state. Ask for the interest rate in writing, the repayment schedule and a receipt for every payment. Never hand over original documents or blank cheques. Avoid daily or weekly interest arrangements that add up to very high yearly costs. Harassment is a crime, and you can approach the police.
+
+## X3. Is gold a good savings option?
+Gold can be held as jewellery, coins, gold exchange-traded funds, sovereign-style products or other forms. Prices can rise and fall. Jewellery carries making charges and purity concerns, so buy hallmarked jewellery from a reputable seller. Check the regulation, cost and liquidity of any gold product before buying, and do not put all savings into one asset.
+
+## X4. Is it safe to keep a lot of cash at home?
+Large cash at home carries risks of theft, fire and loss, and it earns no interest. Keep only what you need for daily use. Large cash transactions can have legal limits and reporting rules, so check the income tax website.
+
+## X5. How can migrant workers and families send money home safely?
+Use a bank transfer, UPI or the official money-transfer service of a bank or authorised provider. Check the recipient name and charges. Avoid informal agents who ask you to send money to a personal account for "special rates". Keep the transaction reference until the recipient confirms receipt.
+
+
+# PART Y: MORE HINDI AND HINGLISH QUESTIONS AND ANSWERS
+
+## Health insurance mein cashless claim kaise hota hai?
+Network hospital mein admit hone par hospital insurer ko pre-authorisation request bhejta hai. Approval milne par bill ka eligible hissa insurer seedha hospital ko deta hai, aur baaki aap dete hain. Policy ka waiting period, sub-limit aur co-payment pehle padh lein.
+
+## Insurance claim reject ho gaya, kya karein?
+Pehle insurer ke Grievance Redressal Officer ko likhit shikayat dein aur reference number rakhein. Lagbhag 15 din mein jawab na mile ya sahi na ho to IRDAI ke Bima Bharosa portal par shikayat karein. Uske baad Insurance Ombudsman ke paas ja sakte hain, jo free service hai.
+
+## Free-look period kya hota hai?
+Naya life ya health policy lene ke baad aap use review karke wapas kar sakte hain aur refund pa sakte hain. IRDAI ke naye niyam ke hisaab se ye 30 din hai, par apne policy document mein check karein. Likhit request email aur post dono se bhejein.
+
+## Mudra loan kya hota hai?
+Mudra loan chhote dukan, service aur manufacturing business ke liye collateral-free loan hai. Shishu Rs 50,000 tak, Kishore Rs 50,000 se 5 lakh, Tarun Rs 5 se 10 lakh, aur Tarun Plus Rs 10 se 20 lakh tak (sirf unke liye jinhone pehle Tarun loan chuka diya ho). Apply bank ya NBFC se karein, kisi agent ko fee na dein.
+
+## PM SVANidhi kya hai?
+Street vendors ke liye bina guarantee ka working capital loan hai: Rs 15,000, phir Rs 25,000, phir Rs 50,000, jab pichhla loan time par chuka diya jaye. Digital payment par cashback bhi milta hai. Apply official portal ya bank se karein.
+
+## Purane bank account ya FD ka paisa kaise dhundhein?
+RBI ka UDGAM portal (udgam.rbi.org.in) use karein, jisse kai banks ke unclaimed deposits ek hi jagah search ho jaate hain. Paisa claim karne ke liye aapko apne bank branch mein KYC aur documents dene honge.
+
+## EMI nahi bhar pa raha hoon, kya karun?
+Lender ko turant batayein aur repayment ke options likhit mein poochein. Nayi mehengi loan sirf purani loan chukane ke liye na lein. Agar recovery agent dhamki de to record rakhein aur lender ke grievance officer, RBI complaint portal ya police se shikayat karein.
+
+## Credit card ka sirf minimum due bharna kyun nuksaan wala hai?
+Baaki balance par interest lagta rehta hai. Maan lijiye Rs 50,000 baaki hai aur card 3 percent per month interest leta hai, to ek mahine ka interest hi lagbhag Rs 1,500 hota hai. Isliye total amount due poora bharne ki koshish karein.
+
+## OLX par samaan bechte waqt QR scan karne ko bola, kya ye sahi hai?
+Nahi. Paise receive karne ke liye QR scan karna ya PIN daalna zaroori nahi hota. Aisa karne par aapke account se paise kat jaate hain. Apne bank app mein payment aaya ya nahi, ye khud check karein.
+
+## Kya crypto mein paise lagana safe hai?
+Crypto legal tender nahi hai aur uski keemat bahut tezi se upar-neeche hoti hai. Koi bhi "pakka profit" ka vaada fraud hota hai. Jitna nuksaan aap jhel sakte hain, utna hi lagayein, aur tax ke niyam income tax website par check karein.
+
+## Finfluencer ki tip par invest karna sahi hai kya?
+Bina verify kiye nahi. Investment advice dene wale ka SEBI registration SEBI ki website par check karein. "Sure-shot tips" ke liye paisa na dein aur WhatsApp ya Telegram groups ke dawon par bharosa na karein.
+
+## Chit fund mein paisa lagana safe hai kya?
+Registered chit fund jo Chit Funds Act ke tahat chalta ho aur state registrar ke paas registered ho, wo relatively safe hota hai. Bina registration wali committee ya "paisa double" scheme risky ya illegal hoti hai. Illegal scheme ki report RBI Sachet portal par kar sakte hain.
+
+## Aadhaar ka misuse kaise roken?
+Aadhaar OTP kisi ko na dein, photocopy par purpose aur date likhein, aur UIDAI ki official service se apna biometrics lock karein. Bank account aur SIM ki jaankari samay-samay par check karte rahein.
+
+## Retirement ke liye kitna save karna chahiye?
+Sabke liye ek hi amount nahi hota. Ye aapke kharche, umar, inflation aur doosre income par depend karta hai. Jaldi shuru karein, EPF aur NPS statements dekhein aur official calculators use karein.
+
+## Dukan par UPI payment kaise safe rakhein?
+Apna hi QR code lagayein, aur payment ka confirmation apne bank ya UPI app mein check karein, customer ke screenshot par bharosa na karein. Personal aur dukan ka paisa alag accounts mein rakhein.   
+
+# PART Z: LATEST SCAM ALERTS (2025 AND 2026)
+
+Information checked on 30 October 2026 from official advisories and news reports. Scam methods change quickly. For anything urgent, call 1930 or visit https://cybercrime.gov.in. Official alerts are also published by PIB Fact Check, I4C (Indian Cyber Crime Coordination Centre) and Sanchar Saathi (https://sancharsaathi.gov.in).
+
+## Z1. What is the fake e-challan (RTO challan) APK scam?
+How it works: you receive an SMS or WhatsApp message saying you have a pending traffic challan. It carries a link or a file, often named like "RTO Challan.apk", "e-Challan app" or "mParivahan.apk". The file is not an official app. After you install it and give permissions, the malware can read your SMS and OTPs, take control of the phone and empty your bank account. Police and PIB Fact Check have warned about this scam in many states, and victims have lost lakhs of rupees.
+Warning signs: the challan notice comes with an APK file or an unknown link, the sender is a normal mobile number, it creates urgency, and the app is not on the official app store.
+What to do: never install an app sent through SMS, WhatsApp or a link. Check any challan only on the official Parivahan e-Challan portal (https://echallan.parivahan.gov.in) or the official app from the Play Store or App Store, and type the address yourself.
+
+## Z2. What is the "APK file" scam in general?
+An APK is the installation file of an Android app. Fraudsters send APK files on WhatsApp, SMS or social media with names like "wedding invitation", "bank KYC update", "gas bill update", "RTO challan", "8th Pay Commission", "PM Kisan" or "lucky draw". Once installed, the app can ask for permissions such as reading SMS, accessibility and screen control. Criminals then see OTPs and can make transfers. The I4C has warned about malware that misuses Android accessibility permissions to take over devices.
+Rule: install apps only from the official Google Play Store or Apple App Store, and never open an APK file that someone sends you, even if it comes from a friend or relative (their phone may be hacked).
+
+## Z3. A WhatsApp message in the name of the RBI says my account will be blocked. Is it real?
+No. PIB Fact Check warned in June 2026 about fake WhatsApp messages in the name of the Reserve Bank of India, which carry an APK file and claim that your bank account is linked to suspicious transactions or will be suspended. The RBI does not send such notices on WhatsApp. Do not open the file, delete the message and report it using Chakshu on Sanchar Saathi. Contact your bank only through its official app or number.
+
+## Z4. What is the call forwarding (USSD code) scam?
+How it works: a caller pretends to be a courier agent, telecom technician or bank employee and asks you to dial a code such as *21*[number]#, *61*, *67* or *401# followed by a number, "to fix a problem" or "confirm a delivery". These USSD codes switch on call forwarding, so your incoming calls and OTP voice calls go to the fraudster. They then take over accounts and move money. I4C and several state police units have issued warnings.
+What to do:
+1. Never dial a code that someone dictates over the phone or in a message.
+2. Check whether forwarding is active by dialling *#21#.
+3. If forwarding is on, dial ##002# to cancel all call forwarding (confirm with your mobile operator if it does not work).
+4. Call your bank, secure your accounts, and report on 1930 or cybercrime.gov.in.
+Sanchar Saathi guidance says a genuine delivery service never asks you to dial a *21* style code.
+
+## Z5. What is the eSIM or "SIM upgrade" scam?
+How it works: a caller, SMS or email pretends to be from your mobile operator and says your SIM must be upgraded to an eSIM or "5G SIM". They ask you to share an OTP, forward a message, or approve an eSIM request. If you do, the fraudster gets your number on their device and receives your bank OTPs. Warning sign: your phone suddenly loses network signal for no reason. In such a case, contact your mobile operator and your bank at once. I4C has issued an advisory about rising eSIM fraud.
+Rule: do not share any OTP, QR code or request approval for a SIM or eSIM change unless you started the request yourself at the operator's official store or app.
+
+## Z6. What is the fake courier, "undelivered parcel" and customs scam?
+Messages say a parcel cannot be delivered unless you pay a small fee, update an address on a link, or call a number. Another version says a parcel in your name contains illegal items and connects you to a fake "police" or "customs" officer, which can lead to a digital arrest scam. Real couriers do not ask you to dial codes or share OTPs. Verify only through the official website or app of the courier, and ignore the messages that carry a link.
+
+## Z7. What are the fake LPG booking, gas bill and electricity bill alerts?
+Messages claim your LPG cylinder needs urgent booking, a discount is available or your connection will be cut. They carry links or APK files. Book LPG and pay bills only through the official app or website of the provider.
+
+## Z8. What is the "boss scam" or fake-executive WhatsApp scam?
+I4C warned about this in June 2026. A fraudster sets a photo of your boss or senior as a WhatsApp display picture and sends messages such as "I am in a meeting, please buy gift cards" or "transfer money to this account urgently". Before sending any money, call the real person on a known number. Companies should have a fixed approval process for payments.
+
+## Z9. What are AI voice-clone and deepfake video-call scams?
+Criminals can copy a voice from a short clip or fake a face on a video call to look like a relative, friend or an official, and then claim an emergency: an accident, an arrest or a hospital bill, and ask for urgent money. Because a familiar voice or face can be faked, do not trust it alone.
+What to do: end the call and call the person back on their own saved number; ask a question only the real person can answer; agree on a family "safe word" for emergencies; do not send money to a new account because of an urgent call; if it involves police or government, treat it as a possible digital arrest scam.
+
+## Z10. What are fake trading app, WhatsApp stock-tip group and "IPO allotment" scams?
+Fraudsters add people to WhatsApp or Telegram groups with "experts" who give stock tips, show fake profit screenshots and push you to install a trading app that is not a SEBI-registered broker's app. The app shows false profits. When you try to withdraw, you are asked to pay "tax", "fees" or "margin". Check the broker or adviser on the SEBI website, use only official apps from the app store, and never transfer money to a personal account. Promises of "guaranteed returns" or "sure IPO allotment" are red flags.
+
+## Z11. What is a mule account and why should I never let anyone use my bank account?
+A mule account is a bank account used to receive and pass on stolen money. Fraudsters offer commission for "renting" your account, ask you to receive money "for a friend" or for a job, or ask for your account, SIM or UPI details. If stolen money passes through your account, you can be investigated and your account frozen, and you may face criminal action. Never lend your bank account, SIM, UPI ID or ATM card to anyone, and report offers like this at cybercrime.gov.in.
+
+## Z12. What are romance, matrimonial and sextortion scams?
+- Romance and matrimonial scams: a stranger builds trust online, then asks for money for an emergency, gifts, customs fees or an "investment".
+- Sextortion: someone records or fakes an intimate video call and threatens to share it unless you pay.
+What to do: do not pay (it usually leads to more demands), do not delete the evidence, take screenshots of numbers, profiles and messages, block the contact, and report at cybercrime.gov.in or on 1930. You are the victim, and the shame belongs to the blackmailer, not to you.
+
+## Z13. What are fake income tax refund and tax-notice scams?
+Messages say you have an income tax refund or a notice, with a link to "claim" it. The Income Tax Department does not ask for your OTP, UPI PIN or card details to give a refund. Log in only at the official portal (https://www.incometax.gov.in) by typing the address yourself. I4C has warned about tax-related scams especially during the return-filing season.
+
+## Z14. What are festive-season scams?
+Around Diwali and other festivals, fake sale links, "gift vouchers", cash-back offers, fake gold schemes and "lucky draw" messages increase. Buy only from official apps and sites, do not click offers from unknown senders, and do not scan a QR code to "receive" a gift or cash-back.
+
+## Z15. What is the viral video or "see who viewed your profile" link scam?
+Links promising a viral clip, a leaked video, a profile-viewer app or a free subscription can lead to fake websites or malware downloads. Do not download files or apps from such links, and do not log in using your social media or bank details.
+
+
+# PART AA: WHAT THE RBI AND GOVERNMENT ARE DOING TO PROTECT YOU
+
+## AA1. What is the .bank.in domain and how does it help me?
+Source: RBI (https://www.rbi.org.in/). The RBI directed all banks to move their websites to the exclusive ".bank.in" domain by 31 October 2025. Only RBI-regulated banks can register such an address, so a website that ends with .bank.in is much more likely to be a genuine bank site. Still check the full address carefully, and use the bank's official app or a link typed by you instead of links sent in messages. A site that does not end in .bank.in is not automatically fake (for example, non-bank companies), so verify through the bank's official app or branch.
+
+## AA2. What is the Financial Fraud Risk Indicator (FRI)?
+Source: Department of Telecommunications (https://sancharsaathi.gov.in). Launched in May 2025, the FRI classifies mobile numbers as medium, high or very high risk of being linked to financial fraud, using data from the National Cyber Crime Reporting Portal, Chakshu and banks. The RBI advised banks to use it. Banks and UPI apps can use it to decline, delay or warn about payments to risky numbers. If your UPI app or bank warns you that a recipient may be risky, do not ignore it.
+
+## AA3. What can I do on Sanchar Saathi?
+Source: https://sancharsaathi.gov.in. You can report suspected fraud calls, SMS and WhatsApp messages (Chakshu), check which mobile connections are registered in your name and report numbers you did not take or do not use, and block or trace a lost phone. Visit the official site, since official features and names can change.
+
+## AA4. Will I get compensation if I lose a small amount in a digital fraud? (new RBI framework)
+Source: RBI directions on compensation for small-value digital frauds, announced in February 2026 and notified later in 2026. Please verify the final details at https://www.rbi.org.in.
+- According to reports, the framework applies from 1 January 2027 to fraudulent electronic banking transactions that occur on or after that date, after RBI delayed the start. As of 30 October 2026 it has not yet started.
+- Eligible individual customers whose loss is up to Rs 50,000 can get compensation of 85 percent of the net loss or Rs 25,000, whichever is lower.
+- It is available once per customer, can cover cases where the customer was tricked into sharing an OTP (if the loss was not intentional), and has conditions about prompt reporting and genuine victims.
+- It is meant to help small-value victims and does not remove the need to report fraud immediately and to follow the existing customer-protection rules.
+Because it is not yet in force, a user who loses money now should still report to the bank immediately and use the existing complaint process (Part C of the main knowledge base).
+
+## AA5. What is an e-FIR for cyber fraud?
+Some police units, for example Delhi Police as reported in January 2026, automatically register an e-FIR when a financial cyber fraud is reported through 1930 or the National Cyber Crime Reporting Portal, and the victim may be asked to confirm or sign at a police station within a stated time (reported as 72 hours). Procedures differ by state, so keep your complaint acknowledgement number and follow the police instructions.
+
+## AA6. Why is it important to report fraud immediately?
+The first hours are critical. Quick reporting on 1930 and to your bank lets them flag the receiving accounts and try to freeze or hold the money before it is withdrawn or passed on. Report even if some time has passed, but do not delay. Recovery is never guaranteed.
+
+
+# PART AB: MORE QUESTIONS PEOPLE ASK ABOUT SCAMS AND ONLINE SAFETY
+
+## AB1. A friend or relative sent me an APK file on WhatsApp. Is it safe?
+No. Their WhatsApp or phone may have been hacked, and the malware forwards itself to their contacts. Do not open or install it. Call your friend on their number to tell them, and ask them to run a security check and secure their account.
+
+## AB2. I installed a suspicious APK or app. What should I do now?
+1. Switch on airplane mode or turn off mobile data and Wi-Fi to cut the connection.
+2. From another trusted device, call your bank immediately and ask to block net banking, UPI and cards.
+3. Call 1930 and report on cybercrime.gov.in.
+4. Uninstall the app (if you cannot, remove its administrator or accessibility permission in settings), or ask a trusted technician or the phone's service centre.
+5. For the strongest protection, back up only your photos and contacts, then do a factory reset.
+6. After the phone is clean, change passwords and PINs from a safe device, and review your bank statements.
+7. Tell your contacts not to open anything sent from your number.
+
+## AB3. How do I know if my phone is hacked?
+Possible signs include: battery draining quickly, the phone heating up, apps you never installed, unexpected OTPs or messages, calls or messages sent that you did not make, a sudden loss of mobile signal, or the phone behaving as though someone else is controlling it. These signs can also have normal causes. If you see several and you recently installed an unknown app, act as in AB2.
+
+## AB4. My WhatsApp was hacked. What should I do?
+Try to log back in using your number and the code sent by SMS. Switch on two-step verification in WhatsApp settings. Inform your contacts that messages from your account may be fraud. Report to WhatsApp and to 1930 if money was requested. Never share the six-digit WhatsApp verification code with anyone, even a friend asking for it "by mistake".
+
+## AB5. Someone called from my "bank" about a suspicious transaction. What should I do?
+Do not share an OTP, PIN or CVV. Do not install anything or stay on the call. Hang up and call the number printed on the back of your card or on the bank's official website or app. Banks never ask you to move money to a "safe account" and never need your OTP or PIN.
+
+## AB6. I clicked a phishing link but did not enter any details. Am I safe?
+You are probably safe if you did nothing else, but close the page, do not download anything, clear the browser history and downloads, and run a phone security scan. If you downloaded a file or entered any detail, change your passwords, call the bank and treat it as in AB2.
+
+## AB7. The scammer has my phone number and name. Can they empty my bank account?
+Knowing your name or number alone cannot move money from your account. Fraud usually needs your OTP, PIN, password, card details, or access to your phone through malware or call forwarding. Stay careful, do not share these, and do not install anything. Scammers often get names and numbers from leaked data or public listings.
+
+## AB8. Is it safe to share my UPI ID or QR code?
+Sharing your UPI ID or receiving QR code only lets people pay you. It is not like sharing your PIN. However, fraudsters can send unexpected collect requests or fake payment messages. Do not approve any request you did not expect, and check the credit in your own bank app.
+
+## AB9. Someone says they sent money to my account by mistake and asks me to return it. Is this a scam?
+It can be. In one common scam, a fake credit message arrives or money is sent from a stolen account, and then you are asked to send money back to a different account. First check your own bank app to see whether the money has actually arrived. Do not return it to an unknown number or account directly. Ask the sender to contact their own bank, and inform your bank. The bank can reverse a genuine mistaken credit through the proper process. If the credit is later reversed as fraud, you can be left with the loss.
+
+## AB10. Should I share a screenshot of my transaction?
+A screenshot shows account, UPI and transaction details. Share it only with your bank, the payment provider or the police. Do not post it on social media or send it to unknown "support agents". A screenshot is also not proof of payment for a seller; verify the credit in your own app.
+
+## AB11. How can I check whether a website is genuine?
+1. Type the address yourself or use the official app instead of clicking links in messages.
+2. Check spelling and the domain carefully; look-alike names are common.
+3. Banks should use .bank.in addresses.
+4. A padlock icon only means the connection is encrypted, not that the site is trustworthy.
+5. Be suspicious of sites with extremely low prices, no contact details, or that ask for UPI PIN or card PIN.
+6. Search the company's name with the word "fraud" or "reviews", and check official registration where required.
+
+## AB12. How do I check whether a bank, NBFC or lending app is registered with the RBI?
+Use the lists of regulated entities on the RBI website (https://www.rbi.org.in). A genuine NBFC or bank can tell you its registration details. Digital lending apps used by regulated lenders must be disclosed by the lender, and RBI maintains a directory of such apps (see Part E of the main knowledge base). If the lender cannot tell you which regulated entity is behind the app, do not borrow.
+
+## AB13. Someone offers me commission to receive money in my account or to use my account. What should I do?
+Refuse. This is a mule account arrangement and can make you part of a crime (see Z11). Report the offer on cybercrime.gov.in.
+
+## AB14. I already paid a fee, and now they ask for more money to release my profit or refund. What should I do?
+Stop paying. Asking for repeated "tax", "fees" or "unlocking charges" is a hallmark of fraud, and more payments only increase your loss. Save evidence, report to the bank and to 1930/cybercrime.gov.in.
+
+## AB15. Someone contacted me offering to recover my lost money for a fee. Is that real?
+Almost certainly not. These are "recovery scams" that target earlier victims. Genuine recovery happens through your bank, the police and the cyber crime portal. Never pay an unknown person for recovery.
+
+## AB16. Why do scammers say "do not disconnect the call" or "do not tell anyone"?
+They isolate victims so that no one can warn them and they cannot think calmly. Genuine banks, police and government departments never demand secrecy or ask you to stay on a video call while you transfer money. If you are told to keep a call or secret, end the call and speak to a trusted person.
+
+## AB17. How can I verify a call from the police, CBI, customs or the RBI?
+Do not rely on the caller ID, uniform, logo, ID card photo or documents shown on a call, since all can be faked. End the call and find the official number from the department's own website or your local police station, and call that number. No agency arrests people or collects money over a video call. The RBI does not call individuals about their bank accounts.
+
+## AB18. Do banks or the RBI send APK files or links to block an account?
+No. They do not send installation files, and they do not ask you to click a link to avoid a block. Contact the bank only through its official app, website or the number on your card.
+
+## AB19. Can a bank employee ask me for my OTP or PIN?
+Never. OTP, PIN, CVV and passwords are for you alone. Bank staff do not need them for any reason, and no genuine process requires you to read them out.
+
+## AB20. How do I protect my parents or grandparents from scams?
+1. Talk about common scams: digital arrest, KYC calls, APK files, fake relatives and lottery messages.
+2. Set UPI and card transaction limits and switch on transaction alerts.
+3. Agree on a rule: ask a family member before any transfer to a new person or after any urgent call.
+4. Teach them the safe phrase for family emergencies.
+5. Help them install apps only from the official store and keep software updated.
+6. Save the bank's official helpline and 1930 in their phone.
+
+## AB21. How do I set transaction limits and alerts?
+Open your bank app or card settings and look for options such as transaction limits, card controls, UPI limits, and SMS or app alerts. You can usually switch online, international and contactless use on or off. Exact menus differ by bank. If you cannot find them, ask the bank through its official helpline or branch.
+
+## AB22. How many SIMs are registered in my name, and how do I report ones I do not use?
+Use the Sanchar Saathi portal (https://sancharsaathi.gov.in) to see the mobile connections registered against your ID and report ones that are not yours. Fraudsters sometimes obtain SIMs in other people's names.
+
+## AB23. How do I report a fake website, number or WhatsApp account?
+For a suspicious call, SMS or WhatsApp message where no money was lost, use Chakshu on Sanchar Saathi. For fraud with a financial loss, call 1930 and file a complaint on cybercrime.gov.in. You can also report fake accounts on the platform itself.
+
+## AB24. What are ten safe digital-money habits?
+1. Never share OTP, PIN, CVV or passwords.
+2. Install apps only from official stores, never from APK files.
+3. Do not click links in unexpected messages; type or use the official app.
+4. Do not dial USSD codes that others ask you to dial.
+5. Check the recipient name before entering your UPI PIN.
+6. You never need a PIN to receive money.
+7. Switch on SMS and app alerts and review statements.
+8. Keep phone software updated and use screen lock.
+9. Verify urgent requests from relatives or bosses by calling back.
+10. If something goes wrong, call your bank and 1930 immediately.
+
+
+# PART AC: HINDI AND HINGLISH QUESTIONS AND ANSWERS ON LATEST SCAMS
+
+## WhatsApp par APK file aayi hai, kya karun?
+Use khol kar install na karein, chahe wo kisi jaan-pehchan wale ne bheji ho. APK file mein malware ho sakta hai jo aapke OTP padh kar paise nikal sakta hai. Apps sirf Play Store ya App Store se install karein. Bhejne wale ko phone par bata dein ki unka WhatsApp hack ho sakta hai.
+
+## E-challan ka message aaya hai, kya ye asli hai?
+Agar message ke saath APK file ya unknown link hai to ye fraud hai. Challan sirf official Parivahan e-Challan portal par khud address type karke check karein. Kisi link ya file par click na karein.
+
+## RBI ke naam par WhatsApp message aaya ki account block ho jayega.
+Ye fake hai. PIB Fact Check ne is tarah ke fake RBI WhatsApp messages (APK file ke saath) ke bare mein chetavni di hai. RBI WhatsApp par aisa notice nahi bhejta. Message delete karein aur Sanchar Saathi ke Chakshu par report karein.
+
+## Koi bol raha hai *21* ya *401# dial karo, kya karun?
+Bilkul dial na karein. In codes se call forwarding chalu ho jaati hai aur aapke OTP wale calls fraudster ko chale jaate hain. *#21# dial karke check karein ki forwarding on to nahi. Agar on hai to ##002# dial karke band karein, bank ko batayein aur 1930 par report karein.
+
+## Meri SIM ko eSIM mein convert karne ka message aaya hai.
+Ye eSIM scam ho sakta hai. Operator ke official store ya app ke bina koi OTP, QR ya approval na dein. Agar phone ka signal achanak chala jaye to turant operator aur bank ko batayein.
+
+## Boss ne WhatsApp par gift card ya paise bhejne ko kaha, kya karun?
+Pehle boss ko unke asli number par call karke confirm karein. Fake DP laga kar bheje gaye messages "boss scam" hote hain.
+
+## Rishtedar ki awaaz mein call aaya ki paise bhejo, kya ye sach ho sakta hai?
+Awaaz aur video AI se fake ki ja sakti hai. Call kaat kar rishtedar ko unke saved number par wapas call karein. Family mein ek safe word tay kar lein. Naye account mein urgent paise na bhejein.
+
+## Mere account mein galti se paise aaye, bhejne wala wapas maang raha hai.
+Pehle apne bank app mein check karein ki paise sach mein aaye ya nahi. Kisi unknown number par seedha wapas na bhejein. Bhejne wale ko apne bank se complaint karne ko kahein aur apne bank ko bhi batayein.
+
+## Koi apne account mein paise mangwane ke liye commission de raha hai.
+Mana kar dein. Ye mule account scam hai, jisme aapka account fraud ke paise ke liye use hota hai aur aap par karwai ho sakti hai. cybercrime.gov.in par report karein.
+
+## Maine APK install kar di, ab kya karun?
+Turant phone ka internet band karein, kisi dusre phone se bank ko call karke net banking, UPI aur card block karwayein, 1930 par call karein, app uninstall karein ya factory reset karein, aur safe device se passwords badlein.
+
+## Kya RBI ne small fraud ke liye compensation ka niyam banaya hai?
+Reports ke anusaar RBI ka naya framework 1 January 2027 se lagu hoga. Isme Rs 50,000 tak ke nuksaan par 85 percent ya Rs 25,000 (jo kam ho) compensation mil sakta hai, ek baar hi, kuch shartein ke saath. Abhi ye shuru nahi hua hai, isliye fraud hote hi bank aur 1930 ko report karein. Final details rbi.org.in par check karein.
+
+## .bank.in kya hai?
+RBI ne banks ko apni websites ko .bank.in domain par le jaane ko kaha hai. Sirf RBI-regulated banks ye domain le sakte hain, isliye .bank.in wali site genuine hone ki sambhavna zyada hai. Phir bhi link par click karne ke bajaye bank ka official app ya khud address type karein.
+
+## Fraud ke baad 1930 par report karne mein jaldi kyun zaroori hai?
+Jaldi report karne se bank aur police paisa aage jaane se pehle us account ko hold ya freeze karne ki koshish kar sakte hain. Der se bhi report karein, par jaldi karna sabse zaroori hai. Recovery ki guarantee nahi hoti.
